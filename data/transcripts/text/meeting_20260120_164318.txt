@@ -1,0 +1,7 @@
+Speaker 0: Good evening all. Today we'll be discussing
+Speaker 0: about the meeting AI project
+Speaker 0: wherein
+Speaker 0: I will be building about the AI part.
+Speaker 0: And then I will be
+Speaker 0: building
+Speaker 0: the UI.

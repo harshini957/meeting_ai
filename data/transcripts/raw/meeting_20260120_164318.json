@@ -1,0 +1,663 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "6319a8d4-7dc8-4a8d-aad7-a21103f7284f",
+    "sha256": "9ccc241d3b81a5f046b3021c0dce6f94ccd2bc19f449485a0cd585158e0a7eb3",
+    "created": "2026-01-20T11:15:14.775Z",
+    "duration": 16.896,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Good evening all. Today we'll be discussing about the meeting AI project wherein I will be building about the AI part. And then I will be building the UI.",
+            "confidence": 0.9220739,
+            "words": [
+              {
+                "word": "good",
+                "start": 2.1599998,
+                "end": 2.3999999,
+                "confidence": 0.9516448,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "evening",
+                "start": 2.3999999,
+                "end": 2.8,
+                "confidence": 0.9836806,
+                "punctuated_word": "evening",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "all",
+                "start": 2.8,
+                "end": 3.12,
+                "confidence": 0.6627328,
+                "punctuated_word": "all.",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "today",
+                "start": 3.12,
+                "end": 3.4399998,
+                "confidence": 0.6645912,
+                "punctuated_word": "Today",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "we'll",
+                "start": 3.4399998,
+                "end": 3.6799998,
+                "confidence": 0.5109512,
+                "punctuated_word": "we'll",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "be",
+                "start": 3.6799998,
+                "end": 3.84,
+                "confidence": 0.8023376,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "discussing",
+                "start": 3.84,
+                "end": 4.34,
+                "confidence": 0.5608717,
+                "punctuated_word": "discussing",
+                "speaker": 0,
+                "speaker_confidence": 0.36920083
+              },
+              {
+                "word": "about",
+                "start": 5.6,
+                "end": 5.92,
+                "confidence": 0.9220739,
+                "punctuated_word": "about",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "the",
+                "start": 5.92,
+                "end": 6.08,
+                "confidence": 0.9701644,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "meeting",
+                "start": 6.08,
+                "end": 6.56,
+                "confidence": 0.9582435,
+                "punctuated_word": "meeting",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "ai",
+                "start": 6.56,
+                "end": 6.8799996,
+                "confidence": 0.8254669,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "project",
+                "start": 6.8799996,
+                "end": 7.3799996,
+                "confidence": 0.99709606,
+                "punctuated_word": "project",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "wherein",
+                "start": 8.32,
+                "end": 8.82,
+                "confidence": 0.40476206,
+                "punctuated_word": "wherein",
+                "speaker": 0,
+                "speaker_confidence": 0.44722128
+              },
+              {
+                "word": "i",
+                "start": 9.36,
+                "end": 9.5199995,
+                "confidence": 0.97674817,
+                "punctuated_word": "I",
+                "speaker": 0,
+                "speaker_confidence": 0.004897237
+              },
+              {
+                "word": "will",
+                "start": 9.5199995,
+                "end": 9.76,
+                "confidence": 0.9942002,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "be",
+                "start": 9.76,
+                "end": 9.92,
+                "confidence": 0.99343914,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "building",
+                "start": 9.92,
+                "end": 10.32,
+                "confidence": 0.8931596,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "about",
+                "start": 10.32,
+                "end": 10.639999,
+                "confidence": 0.59542406,
+                "punctuated_word": "about",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "the",
+                "start": 10.639999,
+                "end": 10.96,
+                "confidence": 0.80190754,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "ai",
+                "start": 10.96,
+                "end": 11.12,
+                "confidence": 0.855013,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "part",
+                "start": 11.12,
+                "end": 11.62,
+                "confidence": 0.6886639,
+                "punctuated_word": "part.",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "and",
+                "start": 12.830999,
+                "end": 13.070999,
+                "confidence": 0.9743069,
+                "punctuated_word": "And",
+                "speaker": 0,
+                "speaker_confidence": 0.47259223
+              },
+              {
+                "word": "then",
+                "start": 13.070999,
+                "end": 13.391,
+                "confidence": 0.77506447,
+                "punctuated_word": "then",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "i",
+                "start": 13.391,
+                "end": 13.471,
+                "confidence": 0.9335221,
+                "punctuated_word": "I",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "will",
+                "start": 13.471,
+                "end": 13.631,
+                "confidence": 0.9832903,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "be",
+                "start": 13.631,
+                "end": 14.131,
+                "confidence": 0.9856248,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "building",
+                "start": 14.750999,
+                "end": 15.250999,
+                "confidence": 0.18560621,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "the",
+                "start": 15.7109995,
+                "end": 15.870999,
+                "confidence": 0.9289122,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.4451874
+              },
+              {
+                "word": "ui",
+                "start": 15.870999,
+                "end": 16.370998,
+                "confidence": 0.9805589,
+                "punctuated_word": "UI.",
+                "speaker": 0,
+                "speaker_confidence": 0.3420329
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Good evening all. Today we'll be discussing about the meeting AI project wherein I will be building about the AI part. And then I will be building the UI.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Good evening all.",
+                      "start": 2.1599998,
+                      "end": 3.12
+                    },
+                    {
+                      "text": "Today we'll be discussing about the meeting AI project wherein I will be building about the AI part.",
+                      "start": 3.12,
+                      "end": 11.62
+                    },
+                    {
+                      "text": "And then I will be building the UI.",
+                      "start": 12.830999,
+                      "end": 16.370998
+                    }
+                  ],
+                  "start": 2.1599998,
+                  "end": 16.370998,
+                  "num_words": 29,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 2.1599998,
+        "end": 4.34,
+        "confidence": 0.73383,
+        "channel": 0,
+        "transcript": "Good evening all. Today we'll be discussing",
+        "words": [
+          {
+            "word": "good",
+            "start": 2.1599998,
+            "end": 2.3999999,
+            "confidence": 0.9516448,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "evening",
+            "start": 2.3999999,
+            "end": 2.8,
+            "confidence": 0.9836806,
+            "punctuated_word": "evening",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "all",
+            "start": 2.8,
+            "end": 3.12,
+            "confidence": 0.6627328,
+            "punctuated_word": "all.",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "today",
+            "start": 3.12,
+            "end": 3.4399998,
+            "confidence": 0.6645912,
+            "punctuated_word": "Today",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "we'll",
+            "start": 3.4399998,
+            "end": 3.6799998,
+            "confidence": 0.5109512,
+            "punctuated_word": "we'll",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "be",
+            "start": 3.6799998,
+            "end": 3.84,
+            "confidence": 0.8023376,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          },
+          {
+            "word": "discussing",
+            "start": 3.84,
+            "end": 4.34,
+            "confidence": 0.5608717,
+            "punctuated_word": "discussing",
+            "speaker": 0,
+            "speaker_confidence": 0.36920083
+          }
+        ],
+        "speaker": 0,
+        "id": "9e0e4598-cdd9-4ae3-ae70-d243341ddb6d"
+      },
+      {
+        "start": 5.6,
+        "end": 7.3799996,
+        "confidence": 0.93460906,
+        "channel": 0,
+        "transcript": "about the meeting AI project",
+        "words": [
+          {
+            "word": "about",
+            "start": 5.6,
+            "end": 5.92,
+            "confidence": 0.9220739,
+            "punctuated_word": "about",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          },
+          {
+            "word": "the",
+            "start": 5.92,
+            "end": 6.08,
+            "confidence": 0.9701644,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          },
+          {
+            "word": "meeting",
+            "start": 6.08,
+            "end": 6.56,
+            "confidence": 0.9582435,
+            "punctuated_word": "meeting",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          },
+          {
+            "word": "ai",
+            "start": 6.56,
+            "end": 6.8799996,
+            "confidence": 0.8254669,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          },
+          {
+            "word": "project",
+            "start": 6.8799996,
+            "end": 7.3799996,
+            "confidence": 0.99709606,
+            "punctuated_word": "project",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          }
+        ],
+        "speaker": 0,
+        "id": "df923589-b43b-4bd7-9b3e-981f0a1461d9"
+      },
+      {
+        "start": 8.32,
+        "end": 8.82,
+        "confidence": 0.40476206,
+        "channel": 0,
+        "transcript": "wherein",
+        "words": [
+          {
+            "word": "wherein",
+            "start": 8.32,
+            "end": 8.82,
+            "confidence": 0.40476206,
+            "punctuated_word": "wherein",
+            "speaker": 0,
+            "speaker_confidence": 0.44722128
+          }
+        ],
+        "speaker": 0,
+        "id": "8d0aaa81-a4f6-4da9-89bf-2368ae511675"
+      },
+      {
+        "start": 9.36,
+        "end": 11.62,
+        "confidence": 0.8498195,
+        "channel": 0,
+        "transcript": "I will be building about the AI part.",
+        "words": [
+          {
+            "word": "i",
+            "start": 9.36,
+            "end": 9.5199995,
+            "confidence": 0.97674817,
+            "punctuated_word": "I",
+            "speaker": 0,
+            "speaker_confidence": 0.004897237
+          },
+          {
+            "word": "will",
+            "start": 9.5199995,
+            "end": 9.76,
+            "confidence": 0.9942002,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "be",
+            "start": 9.76,
+            "end": 9.92,
+            "confidence": 0.99343914,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "building",
+            "start": 9.92,
+            "end": 10.32,
+            "confidence": 0.8931596,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "about",
+            "start": 10.32,
+            "end": 10.639999,
+            "confidence": 0.59542406,
+            "punctuated_word": "about",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "the",
+            "start": 10.639999,
+            "end": 10.96,
+            "confidence": 0.80190754,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "ai",
+            "start": 10.96,
+            "end": 11.12,
+            "confidence": 0.855013,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "part",
+            "start": 11.12,
+            "end": 11.62,
+            "confidence": 0.6886639,
+            "punctuated_word": "part.",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          }
+        ],
+        "speaker": 0,
+        "id": "368446d9-26f9-462f-89fe-9e9263082f81"
+      },
+      {
+        "start": 12.830999,
+        "end": 14.131,
+        "confidence": 0.9303616,
+        "channel": 0,
+        "transcript": "And then I will be",
+        "words": [
+          {
+            "word": "and",
+            "start": 12.830999,
+            "end": 13.070999,
+            "confidence": 0.9743069,
+            "punctuated_word": "And",
+            "speaker": 0,
+            "speaker_confidence": 0.47259223
+          },
+          {
+            "word": "then",
+            "start": 13.070999,
+            "end": 13.391,
+            "confidence": 0.77506447,
+            "punctuated_word": "then",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          },
+          {
+            "word": "i",
+            "start": 13.391,
+            "end": 13.471,
+            "confidence": 0.9335221,
+            "punctuated_word": "I",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          },
+          {
+            "word": "will",
+            "start": 13.471,
+            "end": 13.631,
+            "confidence": 0.9832903,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          },
+          {
+            "word": "be",
+            "start": 13.631,
+            "end": 14.131,
+            "confidence": 0.9856248,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          }
+        ],
+        "speaker": 0,
+        "id": "c24955c5-db7f-4bf1-a7c9-a3f3cfe65b6b"
+      },
+      {
+        "start": 14.750999,
+        "end": 15.250999,
+        "confidence": 0.18560621,
+        "channel": 0,
+        "transcript": "building",
+        "words": [
+          {
+            "word": "building",
+            "start": 14.750999,
+            "end": 15.250999,
+            "confidence": 0.18560621,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          }
+        ],
+        "speaker": 0,
+        "id": "41410d7e-c2a9-4151-8c04-10b0c8615d76"
+      },
+      {
+        "start": 15.7109995,
+        "end": 16.370998,
+        "confidence": 0.9547355,
+        "channel": 0,
+        "transcript": "the UI.",
+        "words": [
+          {
+            "word": "the",
+            "start": 15.7109995,
+            "end": 15.870999,
+            "confidence": 0.9289122,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.4451874
+          },
+          {
+            "word": "ui",
+            "start": 15.870999,
+            "end": 16.370998,
+            "confidence": 0.9805589,
+            "punctuated_word": "UI.",
+            "speaker": 0,
+            "speaker_confidence": 0.3420329
+          }
+        ],
+        "speaker": 0,
+        "id": "551d5419-2f69-43f5-8031-df4591ba0f51"
+      }
+    ]
+  }
+}

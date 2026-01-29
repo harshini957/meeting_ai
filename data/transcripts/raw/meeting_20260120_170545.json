@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "39c7db35-9dfa-42b3-9199-e67abde83721",
+    "sha256": "a9e089c12eecdb14f2eb81717de0a63b4b6a1eef501a5938fabf84f4b87ec64d",
+    "created": "2026-01-20T11:37:40.994Z",
+    "duration": 5.76,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hello, ma'am. Good afternoon.",
+            "confidence": 0.8211759,
+            "words": [
+              {
+                "word": "hello",
+                "start": 0.88,
+                "end": 1.38,
+                "confidence": 0.79187965,
+                "punctuated_word": "Hello,",
+                "speaker": 0,
+                "speaker_confidence": 0.93544006
+              },
+              {
+                "word": "ma'am",
+                "start": 1.67,
+                "end": 1.92,
+                "confidence": 0.8211759,
+                "punctuated_word": "ma'am.",
+                "speaker": 0,
+                "speaker_confidence": 0.93544006
+              },
+              {
+                "word": "good",
+                "start": 1.92,
+                "end": 2.42,
+                "confidence": 0.65595615,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.93544006
+              },
+              {
+                "word": "afternoon",
+                "start": 4.72,
+                "end": 5.22,
+                "confidence": 0.9905499,
+                "punctuated_word": "afternoon.",
+                "speaker": 0,
+                "speaker_confidence": 0.9354402
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Hello, ma'am. Good afternoon.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Hello, ma'am.",
+                      "start": 0.88,
+                      "end": 1.92
+                    },
+                    {
+                      "text": "Good afternoon.",
+                      "start": 1.92,
+                      "end": 5.22
+                    }
+                  ],
+                  "start": 0.88,
+                  "end": 5.22,
+                  "num_words": 4,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.88,
+        "end": 2.42,
+        "confidence": 0.75633717,
+        "channel": 0,
+        "transcript": "Hello, ma'am. Good",
+        "words": [
+          {
+            "word": "hello",
+            "start": 0.88,
+            "end": 1.38,
+            "confidence": 0.79187965,
+            "punctuated_word": "Hello,",
+            "speaker": 0,
+            "speaker_confidence": 0.93544006
+          },
+          {
+            "word": "ma'am",
+            "start": 1.67,
+            "end": 1.92,
+            "confidence": 0.8211759,
+            "punctuated_word": "ma'am.",
+            "speaker": 0,
+            "speaker_confidence": 0.93544006
+          },
+          {
+            "word": "good",
+            "start": 1.92,
+            "end": 2.42,
+            "confidence": 0.65595615,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.93544006
+          }
+        ],
+        "speaker": 0,
+        "id": "908106b2-2e67-42d9-8a6b-aaa2235b2be6"
+      },
+      {
+        "start": 4.72,
+        "end": 5.22,
+        "confidence": 0.9905499,
+        "channel": 0,
+        "transcript": "afternoon.",
+        "words": [
+          {
+            "word": "afternoon",
+            "start": 4.72,
+            "end": 5.22,
+            "confidence": 0.9905499,
+            "punctuated_word": "afternoon.",
+            "speaker": 0,
+            "speaker_confidence": 0.9354402
+          }
+        ],
+        "speaker": 0,
+        "id": "b1e0da4f-3d2f-4a03-9789-67f85a894e44"
+      }
+    ]
+  }
+}

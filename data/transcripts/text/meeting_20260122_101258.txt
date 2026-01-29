@@ -1,0 +1,8 @@
+Speaker 0: Yeah, Anjana.
+Speaker 0: That you're speaking about that AI integration. We'll complete it by today.
+Speaker 0: Okay. So let's integrate that,
+Speaker 0: AI model you have, done with that, UI AI credit card
+Speaker 0: button. So
+Speaker 0: it will run and detect the
+Speaker 0: AI bounding box.
+Speaker 0: We'll do it. We'll try finishing it by today or tomorrow. Okay.

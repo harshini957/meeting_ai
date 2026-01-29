@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "4c8ceff6-82a8-472c-8059-d368a63ec20b",
+    "sha256": "5477ac382e5450ccf89642bcb89c54b9a0171e5a97c3520d2fe3343f85f4d7b4",
+    "created": "2026-01-20T10:31:21.793Z",
+    "duration": 9.088,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hello.",
+            "confidence": 0.6247794,
+            "words": [
+              {
+                "word": "hello",
+                "start": 1.28,
+                "end": 1.78,
+                "confidence": 0.6247794,
+                "punctuated_word": "Hello.",
+                "speaker": 0,
+                "speaker_confidence": 1.0
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Hello.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Hello.",
+                      "start": 1.28,
+                      "end": 1.78
+                    }
+                  ],
+                  "start": 1.28,
+                  "end": 1.78,
+                  "num_words": 1,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 1.28,
+        "end": 1.78,
+        "confidence": 0.6247794,
+        "channel": 0,
+        "transcript": "Hello.",
+        "words": [
+          {
+            "word": "hello",
+            "start": 1.28,
+            "end": 1.78,
+            "confidence": 0.6247794,
+            "punctuated_word": "Hello.",
+            "speaker": 0,
+            "speaker_confidence": 1.0
+          }
+        ],
+        "speaker": 0,
+        "id": "cf409377-aef0-4807-b72f-a637a739c3af"
+      }
+    ]
+  }
+}

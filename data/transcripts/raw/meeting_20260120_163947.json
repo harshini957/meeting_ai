@@ -1,0 +1,1041 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "6fef163d-f0af-4eaa-ac29-6460018fb373",
+    "sha256": "b98f0e61cc5061adf3432806fc97668f06bb9aaa92bd487d0a52077cb6b006bf",
+    "created": "2026-01-20T11:11:44.351Z",
+    "duration": 25.088,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hello, all. Today, I'll be discussing about the meeting for the project VSCAN. In VSCAN version 2.2, we'll be building QTQ ML framework application, wherein Anjana will be responsible for building the UI, and Nihan will be responsible for building back end, and Abhin will be responsible for building AI.",
+            "confidence": 0.98821414,
+            "words": [
+              {
+                "word": "hello",
+                "start": 0.56,
+                "end": 0.96,
+                "confidence": 0.84880733,
+                "punctuated_word": "Hello,",
+                "speaker": 0,
+                "speaker_confidence": 0.73403245
+              },
+              {
+                "word": "all",
+                "start": 0.96,
+                "end": 1.46,
+                "confidence": 0.98663855,
+                "punctuated_word": "all.",
+                "speaker": 0,
+                "speaker_confidence": 0.73403245
+              },
+              {
+                "word": "today",
+                "start": 1.5999999,
+                "end": 2.1,
+                "confidence": 0.9774816,
+                "punctuated_word": "Today,",
+                "speaker": 0,
+                "speaker_confidence": 0.73403245
+              },
+              {
+                "word": "i'll",
+                "start": 2.24,
+                "end": 2.56,
+                "confidence": 0.99760616,
+                "punctuated_word": "I'll",
+                "speaker": 0,
+                "speaker_confidence": 0.73403245
+              },
+              {
+                "word": "be",
+                "start": 2.56,
+                "end": 2.72,
+                "confidence": 0.99965787,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.8232922
+              },
+              {
+                "word": "discussing",
+                "start": 2.72,
+                "end": 3.22,
+                "confidence": 0.99943036,
+                "punctuated_word": "discussing",
+                "speaker": 0,
+                "speaker_confidence": 0.8232922
+              },
+              {
+                "word": "about",
+                "start": 3.36,
+                "end": 3.6799998,
+                "confidence": 0.98951894,
+                "punctuated_word": "about",
+                "speaker": 0,
+                "speaker_confidence": 0.8232922
+              },
+              {
+                "word": "the",
+                "start": 3.6799998,
+                "end": 3.84,
+                "confidence": 0.9953874,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.8232922
+              },
+              {
+                "word": "meeting",
+                "start": 3.84,
+                "end": 4.34,
+                "confidence": 0.9802045,
+                "punctuated_word": "meeting",
+                "speaker": 0,
+                "speaker_confidence": 0.8232922
+              },
+              {
+                "word": "for",
+                "start": 4.88,
+                "end": 5.12,
+                "confidence": 0.66848934,
+                "punctuated_word": "for",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "the",
+                "start": 5.12,
+                "end": 5.2799997,
+                "confidence": 0.99535805,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "project",
+                "start": 5.2799997,
+                "end": 5.7799997,
+                "confidence": 0.98770905,
+                "punctuated_word": "project",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "vscan",
+                "start": 5.92,
+                "end": 6.42,
+                "confidence": 0.8071452,
+                "punctuated_word": "VSCAN.",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "in",
+                "start": 7.12,
+                "end": 7.6,
+                "confidence": 0.9960588,
+                "punctuated_word": "In",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "vscan",
+                "start": 7.6,
+                "end": 8.1,
+                "confidence": 0.99340796,
+                "punctuated_word": "VSCAN",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "version",
+                "start": 8.4,
+                "end": 8.8,
+                "confidence": 0.8790646,
+                "punctuated_word": "version",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "2.2",
+                "start": 8.8,
+                "end": 9.5199995,
+                "confidence": 0.9776767,
+                "punctuated_word": "2.2,",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "we'll",
+                "start": 9.5199995,
+                "end": 9.84,
+                "confidence": 0.98328775,
+                "punctuated_word": "we'll",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "be",
+                "start": 9.84,
+                "end": 10.0,
+                "confidence": 0.9983011,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "building",
+                "start": 10.0,
+                "end": 10.5,
+                "confidence": 0.9945761,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "qtq",
+                "start": 11.2,
+                "end": 11.7,
+                "confidence": 0.83020145,
+                "punctuated_word": "QTQ",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "ml",
+                "start": 11.759999,
+                "end": 12.08,
+                "confidence": 0.55693597,
+                "punctuated_word": "ML",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "framework",
+                "start": 12.08,
+                "end": 12.48,
+                "confidence": 0.9672782,
+                "punctuated_word": "framework",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "application",
+                "start": 12.48,
+                "end": 12.98,
+                "confidence": 0.752354,
+                "punctuated_word": "application,",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "wherein",
+                "start": 13.885,
+                "end": 14.205,
+                "confidence": 0.95608306,
+                "punctuated_word": "wherein",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "anjana",
+                "start": 14.205,
+                "end": 14.685,
+                "confidence": 0.9314789,
+                "punctuated_word": "Anjana",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "will",
+                "start": 14.685,
+                "end": 14.925,
+                "confidence": 0.98861223,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "be",
+                "start": 14.925,
+                "end": 15.085,
+                "confidence": 0.99585307,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "responsible",
+                "start": 15.085,
+                "end": 15.585,
+                "confidence": 0.99949276,
+                "punctuated_word": "responsible",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "for",
+                "start": 15.725,
+                "end": 15.965,
+                "confidence": 0.9986792,
+                "punctuated_word": "for",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "building",
+                "start": 15.965,
+                "end": 16.365,
+                "confidence": 0.9925107,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "the",
+                "start": 16.365,
+                "end": 16.525,
+                "confidence": 0.9487551,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "ui",
+                "start": 16.525,
+                "end": 17.025,
+                "confidence": 0.80400646,
+                "punctuated_word": "UI,",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "and",
+                "start": 17.165,
+                "end": 17.405,
+                "confidence": 0.5948101,
+                "punctuated_word": "and",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "nihan",
+                "start": 17.405,
+                "end": 17.725,
+                "confidence": 0.49887228,
+                "punctuated_word": "Nihan",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "will",
+                "start": 17.725,
+                "end": 17.885,
+                "confidence": 0.99678934,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "be",
+                "start": 17.885,
+                "end": 18.045,
+                "confidence": 0.98821414,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "responsible",
+                "start": 18.045,
+                "end": 18.545,
+                "confidence": 0.99935526,
+                "punctuated_word": "responsible",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "for",
+                "start": 18.845001,
+                "end": 18.925,
+                "confidence": 0.99753404,
+                "punctuated_word": "for",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "building",
+                "start": 18.925,
+                "end": 19.425,
+                "confidence": 0.9966613,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "back",
+                "start": 20.445,
+                "end": 20.685001,
+                "confidence": 0.63294196,
+                "punctuated_word": "back",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "end",
+                "start": 20.685001,
+                "end": 21.185001,
+                "confidence": 0.9338353,
+                "punctuated_word": "end,",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "and",
+                "start": 21.325,
+                "end": 21.565,
+                "confidence": 0.99836034,
+                "punctuated_word": "and",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "abhin",
+                "start": 21.565,
+                "end": 21.965,
+                "confidence": 0.8555858,
+                "punctuated_word": "Abhin",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "will",
+                "start": 21.965,
+                "end": 22.125,
+                "confidence": 0.9468255,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "be",
+                "start": 22.125,
+                "end": 22.285,
+                "confidence": 0.99347514,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "responsible",
+                "start": 22.285,
+                "end": 22.785,
+                "confidence": 0.9984036,
+                "punctuated_word": "responsible",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "for",
+                "start": 23.005001,
+                "end": 23.244999,
+                "confidence": 0.9963336,
+                "punctuated_word": "for",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "building",
+                "start": 23.244999,
+                "end": 23.744999,
+                "confidence": 0.9710183,
+                "punctuated_word": "building",
+                "speaker": 0,
+                "speaker_confidence": 0.83542985
+              },
+              {
+                "word": "ai",
+                "start": 23.885,
+                "end": 24.385,
+                "confidence": 0.88853353,
+                "punctuated_word": "AI.",
+                "speaker": 0,
+                "speaker_confidence": 0.59789145
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Hello, all. Today, I'll be discussing about the meeting for the project VSCAN. In VSCAN version 2.2, we'll be building QTQ ML framework application, wherein Anjana will be responsible for building the UI, and Nihan will be responsible for building back end, and Abhin will be responsible for building AI.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Hello, all.",
+                      "start": 0.56,
+                      "end": 1.46
+                    },
+                    {
+                      "text": "Today, I'll be discussing about the meeting for the project VSCAN.",
+                      "start": 1.5999999,
+                      "end": 6.42
+                    },
+                    {
+                      "text": "In VSCAN version 2.2, we'll be building QTQ ML framework application, wherein Anjana will be responsible for building the UI, and Nihan will be responsible for building back end, and Abhin will be responsible for building AI.",
+                      "start": 7.12,
+                      "end": 24.385
+                    }
+                  ],
+                  "start": 0.56,
+                  "end": 24.385,
+                  "num_words": 50,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.56,
+        "end": 4.34,
+        "confidence": 0.9749703,
+        "channel": 0,
+        "transcript": "Hello, all. Today, I'll be discussing about the meeting",
+        "words": [
+          {
+            "word": "hello",
+            "start": 0.56,
+            "end": 0.96,
+            "confidence": 0.84880733,
+            "punctuated_word": "Hello,",
+            "speaker": 0,
+            "speaker_confidence": 0.73403245
+          },
+          {
+            "word": "all",
+            "start": 0.96,
+            "end": 1.46,
+            "confidence": 0.98663855,
+            "punctuated_word": "all.",
+            "speaker": 0,
+            "speaker_confidence": 0.73403245
+          },
+          {
+            "word": "today",
+            "start": 1.5999999,
+            "end": 2.1,
+            "confidence": 0.9774816,
+            "punctuated_word": "Today,",
+            "speaker": 0,
+            "speaker_confidence": 0.73403245
+          },
+          {
+            "word": "i'll",
+            "start": 2.24,
+            "end": 2.56,
+            "confidence": 0.99760616,
+            "punctuated_word": "I'll",
+            "speaker": 0,
+            "speaker_confidence": 0.73403245
+          },
+          {
+            "word": "be",
+            "start": 2.56,
+            "end": 2.72,
+            "confidence": 0.99965787,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.8232922
+          },
+          {
+            "word": "discussing",
+            "start": 2.72,
+            "end": 3.22,
+            "confidence": 0.99943036,
+            "punctuated_word": "discussing",
+            "speaker": 0,
+            "speaker_confidence": 0.8232922
+          },
+          {
+            "word": "about",
+            "start": 3.36,
+            "end": 3.6799998,
+            "confidence": 0.98951894,
+            "punctuated_word": "about",
+            "speaker": 0,
+            "speaker_confidence": 0.8232922
+          },
+          {
+            "word": "the",
+            "start": 3.6799998,
+            "end": 3.84,
+            "confidence": 0.9953874,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.8232922
+          },
+          {
+            "word": "meeting",
+            "start": 3.84,
+            "end": 4.34,
+            "confidence": 0.9802045,
+            "punctuated_word": "meeting",
+            "speaker": 0,
+            "speaker_confidence": 0.8232922
+          }
+        ],
+        "speaker": 0,
+        "id": "3607a3ce-8b7d-4131-b958-1a940b2b3d3a"
+      },
+      {
+        "start": 4.88,
+        "end": 6.42,
+        "confidence": 0.8646754,
+        "channel": 0,
+        "transcript": "for the project VSCAN.",
+        "words": [
+          {
+            "word": "for",
+            "start": 4.88,
+            "end": 5.12,
+            "confidence": 0.66848934,
+            "punctuated_word": "for",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "the",
+            "start": 5.12,
+            "end": 5.2799997,
+            "confidence": 0.99535805,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "project",
+            "start": 5.2799997,
+            "end": 5.7799997,
+            "confidence": 0.98770905,
+            "punctuated_word": "project",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "vscan",
+            "start": 5.92,
+            "end": 6.42,
+            "confidence": 0.8071452,
+            "punctuated_word": "VSCAN.",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          }
+        ],
+        "speaker": 0,
+        "id": "270622d6-065a-455d-9f37-3ea2afa6b9a4"
+      },
+      {
+        "start": 7.12,
+        "end": 10.5,
+        "confidence": 0.9746247,
+        "channel": 0,
+        "transcript": "In VSCAN version 2.2, we'll be building",
+        "words": [
+          {
+            "word": "in",
+            "start": 7.12,
+            "end": 7.6,
+            "confidence": 0.9960588,
+            "punctuated_word": "In",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "vscan",
+            "start": 7.6,
+            "end": 8.1,
+            "confidence": 0.99340796,
+            "punctuated_word": "VSCAN",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "version",
+            "start": 8.4,
+            "end": 8.8,
+            "confidence": 0.8790646,
+            "punctuated_word": "version",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "2.2",
+            "start": 8.8,
+            "end": 9.5199995,
+            "confidence": 0.9776767,
+            "punctuated_word": "2.2,",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "we'll",
+            "start": 9.5199995,
+            "end": 9.84,
+            "confidence": 0.98328775,
+            "punctuated_word": "we'll",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "be",
+            "start": 9.84,
+            "end": 10.0,
+            "confidence": 0.9983011,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "building",
+            "start": 10.0,
+            "end": 10.5,
+            "confidence": 0.9945761,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          }
+        ],
+        "speaker": 0,
+        "id": "de1c8328-fd68-4a0f-8ef8-64ad58d57d0d"
+      },
+      {
+        "start": 11.2,
+        "end": 12.98,
+        "confidence": 0.7766924,
+        "channel": 0,
+        "transcript": "QTQ ML framework application,",
+        "words": [
+          {
+            "word": "qtq",
+            "start": 11.2,
+            "end": 11.7,
+            "confidence": 0.83020145,
+            "punctuated_word": "QTQ",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "ml",
+            "start": 11.759999,
+            "end": 12.08,
+            "confidence": 0.55693597,
+            "punctuated_word": "ML",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "framework",
+            "start": 12.08,
+            "end": 12.48,
+            "confidence": 0.9672782,
+            "punctuated_word": "framework",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "application",
+            "start": 12.48,
+            "end": 12.98,
+            "confidence": 0.752354,
+            "punctuated_word": "application,",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          }
+        ],
+        "speaker": 0,
+        "id": "242ab0fb-db63-4033-ba3c-de49034bd1fb"
+      },
+      {
+        "start": 13.885,
+        "end": 18.545,
+        "confidence": 0.9066795,
+        "channel": 0,
+        "transcript": "wherein Anjana will be responsible for building the UI, and Nihan will be responsible",
+        "words": [
+          {
+            "word": "wherein",
+            "start": 13.885,
+            "end": 14.205,
+            "confidence": 0.95608306,
+            "punctuated_word": "wherein",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "anjana",
+            "start": 14.205,
+            "end": 14.685,
+            "confidence": 0.9314789,
+            "punctuated_word": "Anjana",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "will",
+            "start": 14.685,
+            "end": 14.925,
+            "confidence": 0.98861223,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "be",
+            "start": 14.925,
+            "end": 15.085,
+            "confidence": 0.99585307,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "responsible",
+            "start": 15.085,
+            "end": 15.585,
+            "confidence": 0.99949276,
+            "punctuated_word": "responsible",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "for",
+            "start": 15.725,
+            "end": 15.965,
+            "confidence": 0.9986792,
+            "punctuated_word": "for",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "building",
+            "start": 15.965,
+            "end": 16.365,
+            "confidence": 0.9925107,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "the",
+            "start": 16.365,
+            "end": 16.525,
+            "confidence": 0.9487551,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "ui",
+            "start": 16.525,
+            "end": 17.025,
+            "confidence": 0.80400646,
+            "punctuated_word": "UI,",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "and",
+            "start": 17.165,
+            "end": 17.405,
+            "confidence": 0.5948101,
+            "punctuated_word": "and",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "nihan",
+            "start": 17.405,
+            "end": 17.725,
+            "confidence": 0.49887228,
+            "punctuated_word": "Nihan",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "will",
+            "start": 17.725,
+            "end": 17.885,
+            "confidence": 0.99678934,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "be",
+            "start": 17.885,
+            "end": 18.045,
+            "confidence": 0.98821414,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "responsible",
+            "start": 18.045,
+            "end": 18.545,
+            "confidence": 0.99935526,
+            "punctuated_word": "responsible",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          }
+        ],
+        "speaker": 0,
+        "id": "2e21c365-f235-4ebd-acbe-e419aecdfde1"
+      },
+      {
+        "start": 18.845001,
+        "end": 19.425,
+        "confidence": 0.9970977,
+        "channel": 0,
+        "transcript": "for building",
+        "words": [
+          {
+            "word": "for",
+            "start": 18.845001,
+            "end": 18.925,
+            "confidence": 0.99753404,
+            "punctuated_word": "for",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "building",
+            "start": 18.925,
+            "end": 19.425,
+            "confidence": 0.9966613,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          }
+        ],
+        "speaker": 0,
+        "id": "caf41e65-d6dc-48d7-9c12-722955cbdeea"
+      },
+      {
+        "start": 20.445,
+        "end": 24.385,
+        "confidence": 0.9215313,
+        "channel": 0,
+        "transcript": "back end, and Abhin will be responsible for building AI.",
+        "words": [
+          {
+            "word": "back",
+            "start": 20.445,
+            "end": 20.685001,
+            "confidence": 0.63294196,
+            "punctuated_word": "back",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "end",
+            "start": 20.685001,
+            "end": 21.185001,
+            "confidence": 0.9338353,
+            "punctuated_word": "end,",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "and",
+            "start": 21.325,
+            "end": 21.565,
+            "confidence": 0.99836034,
+            "punctuated_word": "and",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "abhin",
+            "start": 21.565,
+            "end": 21.965,
+            "confidence": 0.8555858,
+            "punctuated_word": "Abhin",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "will",
+            "start": 21.965,
+            "end": 22.125,
+            "confidence": 0.9468255,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "be",
+            "start": 22.125,
+            "end": 22.285,
+            "confidence": 0.99347514,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "responsible",
+            "start": 22.285,
+            "end": 22.785,
+            "confidence": 0.9984036,
+            "punctuated_word": "responsible",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "for",
+            "start": 23.005001,
+            "end": 23.244999,
+            "confidence": 0.9963336,
+            "punctuated_word": "for",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "building",
+            "start": 23.244999,
+            "end": 23.744999,
+            "confidence": 0.9710183,
+            "punctuated_word": "building",
+            "speaker": 0,
+            "speaker_confidence": 0.83542985
+          },
+          {
+            "word": "ai",
+            "start": 23.885,
+            "end": 24.385,
+            "confidence": 0.88853353,
+            "punctuated_word": "AI.",
+            "speaker": 0,
+            "speaker_confidence": 0.59789145
+          }
+        ],
+        "speaker": 0,
+        "id": "8f903e43-e88c-43b6-b7cd-55037776d5d5"
+      }
+    ]
+  }
+}

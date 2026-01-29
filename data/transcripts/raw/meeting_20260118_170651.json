@@ -1,0 +1,566 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "64e26c0f-dae4-403b-8a6b-f60222578b05",
+    "sha256": "38eb0bf7fbc3d90cd4fe53f7c662418bde289fa61133a577fc07e3db2d2d0a65",
+    "created": "2026-01-18T11:38:45.913Z",
+    "duration": 9.6,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "So hello all. Welcome to the meeting AI standard project. Right? And this is the end time I'm trying to transcribe audio, but there are some errors.",
+            "confidence": 0.9715484,
+            "words": [
+              {
+                "word": "so",
+                "start": 0.08,
+                "end": 0.24,
+                "confidence": 0.99670476,
+                "punctuated_word": "So",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "hello",
+                "start": 0.24,
+                "end": 0.48,
+                "confidence": 0.82820225,
+                "punctuated_word": "hello",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "all",
+                "start": 0.48,
+                "end": 0.96,
+                "confidence": 0.7192938,
+                "punctuated_word": "all.",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "welcome",
+                "start": 0.96,
+                "end": 1.4399999,
+                "confidence": 0.9993057,
+                "punctuated_word": "Welcome",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "to",
+                "start": 1.4399999,
+                "end": 1.68,
+                "confidence": 0.99982953,
+                "punctuated_word": "to",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "the",
+                "start": 1.68,
+                "end": 2.1799998,
+                "confidence": 0.9995968,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "meeting",
+                "start": 2.24,
+                "end": 2.6399999,
+                "confidence": 0.93150306,
+                "punctuated_word": "meeting",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "ai",
+                "start": 2.6399999,
+                "end": 2.8799999,
+                "confidence": 0.16157246,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "standard",
+                "start": 2.8799999,
+                "end": 3.1999998,
+                "confidence": 0.82512015,
+                "punctuated_word": "standard",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "project",
+                "start": 3.1999998,
+                "end": 3.6,
+                "confidence": 0.88905025,
+                "punctuated_word": "project.",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "right",
+                "start": 3.6,
+                "end": 3.84,
+                "confidence": 0.8236973,
+                "punctuated_word": "Right?",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "and",
+                "start": 3.84,
+                "end": 4.0,
+                "confidence": 0.9640003,
+                "punctuated_word": "And",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "this",
+                "start": 4.0,
+                "end": 4.24,
+                "confidence": 0.7426432,
+                "punctuated_word": "this",
+                "speaker": 0,
+                "speaker_confidence": 0.91415054
+              },
+              {
+                "word": "is",
+                "start": 4.24,
+                "end": 4.3199997,
+                "confidence": 0.90918833,
+                "punctuated_word": "is",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "the",
+                "start": 4.3199997,
+                "end": 4.48,
+                "confidence": 0.99413705,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "end",
+                "start": 4.48,
+                "end": 4.72,
+                "confidence": 0.90157676,
+                "punctuated_word": "end",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "time",
+                "start": 4.72,
+                "end": 4.96,
+                "confidence": 0.9715484,
+                "punctuated_word": "time",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "i'm",
+                "start": 4.96,
+                "end": 5.12,
+                "confidence": 0.9840011,
+                "punctuated_word": "I'm",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "trying",
+                "start": 5.12,
+                "end": 5.44,
+                "confidence": 0.99919945,
+                "punctuated_word": "trying",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "to",
+                "start": 5.44,
+                "end": 5.6,
+                "confidence": 0.99829894,
+                "punctuated_word": "to",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "transcribe",
+                "start": 5.6,
+                "end": 6.08,
+                "confidence": 0.67054224,
+                "punctuated_word": "transcribe",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "audio",
+                "start": 6.08,
+                "end": 6.58,
+                "confidence": 0.6706229,
+                "punctuated_word": "audio,",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "but",
+                "start": 6.8799996,
+                "end": 7.12,
+                "confidence": 0.9962153,
+                "punctuated_word": "but",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "there",
+                "start": 7.12,
+                "end": 7.2799997,
+                "confidence": 0.9995332,
+                "punctuated_word": "there",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "are",
+                "start": 7.2799997,
+                "end": 7.44,
+                "confidence": 0.998706,
+                "punctuated_word": "are",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "some",
+                "start": 7.44,
+                "end": 7.68,
+                "confidence": 0.997509,
+                "punctuated_word": "some",
+                "speaker": 0,
+                "speaker_confidence": 0.9254833
+              },
+              {
+                "word": "errors",
+                "start": 7.68,
+                "end": 8.18,
+                "confidence": 0.9799297,
+                "punctuated_word": "errors.",
+                "speaker": 0,
+                "speaker_confidence": 0.75311935
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: So hello all. Welcome to the meeting AI standard project. Right? And this is the end time I'm trying to transcribe audio, but there are some errors.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "So hello all.",
+                      "start": 0.08,
+                      "end": 0.96
+                    },
+                    {
+                      "text": "Welcome to the meeting AI standard project.",
+                      "start": 0.96,
+                      "end": 3.6
+                    },
+                    {
+                      "text": "Right?",
+                      "start": 3.6,
+                      "end": 3.84
+                    },
+                    {
+                      "text": "And this is the end time I'm trying to transcribe audio, but there are some errors.",
+                      "start": 3.84,
+                      "end": 8.18
+                    }
+                  ],
+                  "start": 0.08,
+                  "end": 8.18,
+                  "num_words": 27,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.08,
+        "end": 8.18,
+        "confidence": 0.88709366,
+        "channel": 0,
+        "transcript": "So hello all. Welcome to the meeting AI standard project. Right? And this is the end time I'm trying to transcribe audio, but there are some errors.",
+        "words": [
+          {
+            "word": "so",
+            "start": 0.08,
+            "end": 0.24,
+            "confidence": 0.99670476,
+            "punctuated_word": "So",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "hello",
+            "start": 0.24,
+            "end": 0.48,
+            "confidence": 0.82820225,
+            "punctuated_word": "hello",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "all",
+            "start": 0.48,
+            "end": 0.96,
+            "confidence": 0.7192938,
+            "punctuated_word": "all.",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "welcome",
+            "start": 0.96,
+            "end": 1.4399999,
+            "confidence": 0.9993057,
+            "punctuated_word": "Welcome",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "to",
+            "start": 1.4399999,
+            "end": 1.68,
+            "confidence": 0.99982953,
+            "punctuated_word": "to",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "the",
+            "start": 1.68,
+            "end": 2.1799998,
+            "confidence": 0.9995968,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "meeting",
+            "start": 2.24,
+            "end": 2.6399999,
+            "confidence": 0.93150306,
+            "punctuated_word": "meeting",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "ai",
+            "start": 2.6399999,
+            "end": 2.8799999,
+            "confidence": 0.16157246,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "standard",
+            "start": 2.8799999,
+            "end": 3.1999998,
+            "confidence": 0.82512015,
+            "punctuated_word": "standard",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "project",
+            "start": 3.1999998,
+            "end": 3.6,
+            "confidence": 0.88905025,
+            "punctuated_word": "project.",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "right",
+            "start": 3.6,
+            "end": 3.84,
+            "confidence": 0.8236973,
+            "punctuated_word": "Right?",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "and",
+            "start": 3.84,
+            "end": 4.0,
+            "confidence": 0.9640003,
+            "punctuated_word": "And",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "this",
+            "start": 4.0,
+            "end": 4.24,
+            "confidence": 0.7426432,
+            "punctuated_word": "this",
+            "speaker": 0,
+            "speaker_confidence": 0.91415054
+          },
+          {
+            "word": "is",
+            "start": 4.24,
+            "end": 4.3199997,
+            "confidence": 0.90918833,
+            "punctuated_word": "is",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "the",
+            "start": 4.3199997,
+            "end": 4.48,
+            "confidence": 0.99413705,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "end",
+            "start": 4.48,
+            "end": 4.72,
+            "confidence": 0.90157676,
+            "punctuated_word": "end",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "time",
+            "start": 4.72,
+            "end": 4.96,
+            "confidence": 0.9715484,
+            "punctuated_word": "time",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "i'm",
+            "start": 4.96,
+            "end": 5.12,
+            "confidence": 0.9840011,
+            "punctuated_word": "I'm",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "trying",
+            "start": 5.12,
+            "end": 5.44,
+            "confidence": 0.99919945,
+            "punctuated_word": "trying",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "to",
+            "start": 5.44,
+            "end": 5.6,
+            "confidence": 0.99829894,
+            "punctuated_word": "to",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "transcribe",
+            "start": 5.6,
+            "end": 6.08,
+            "confidence": 0.67054224,
+            "punctuated_word": "transcribe",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "audio",
+            "start": 6.08,
+            "end": 6.58,
+            "confidence": 0.6706229,
+            "punctuated_word": "audio,",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "but",
+            "start": 6.8799996,
+            "end": 7.12,
+            "confidence": 0.9962153,
+            "punctuated_word": "but",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "there",
+            "start": 7.12,
+            "end": 7.2799997,
+            "confidence": 0.9995332,
+            "punctuated_word": "there",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "are",
+            "start": 7.2799997,
+            "end": 7.44,
+            "confidence": 0.998706,
+            "punctuated_word": "are",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "some",
+            "start": 7.44,
+            "end": 7.68,
+            "confidence": 0.997509,
+            "punctuated_word": "some",
+            "speaker": 0,
+            "speaker_confidence": 0.9254833
+          },
+          {
+            "word": "errors",
+            "start": 7.68,
+            "end": 8.18,
+            "confidence": 0.9799297,
+            "punctuated_word": "errors.",
+            "speaker": 0,
+            "speaker_confidence": 0.75311935
+          }
+        ],
+        "speaker": 0,
+        "id": "5988366a-7f4b-4bf3-9756-18544e63683b"
+      }
+    ]
+  }
+}

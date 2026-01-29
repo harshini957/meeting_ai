@@ -1,0 +1,18 @@
+{
+  "action_items": [
+    {
+      "task": "completing the AI inferencing pipeline",
+      "owner": "Speaker 0",
+      "assigned_by": "Speaker 0",
+      "due_date": "today",
+      "source_sentence": "Today, I'll be completing the AI inferencing pipeline, and I will perform validation and calculate accuracy metrics by today."
+    },
+    {
+      "task": "perform validation and calculate accuracy metrics",
+      "owner": "Speaker 0",
+      "assigned_by": "Speaker 0",
+      "due_date": "by today",
+      "source_sentence": "Today, I'll be completing the AI inferencing pipeline, and I will perform validation and calculate accuracy metrics by today."
+    }
+  ]
+}

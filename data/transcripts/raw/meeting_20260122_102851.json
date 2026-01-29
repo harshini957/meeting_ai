@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "f939ebcb-5235-4c90-966d-1890fa8de04b",
+    "sha256": "2f259fb226c2c5398d1f1bcbaa410a9861d0c5265333393625dd5eec1f95e493",
+    "created": "2026-01-22T05:00:48.496Z",
+    "duration": 13.696,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Today, I'll be completing the AI inferencing pipeline, and I will perform validation and calculate accuracy metrics by today.",
+            "confidence": 0.83288145,
+            "words": [
+              {
+                "word": "today",
+                "start": 1.12,
+                "end": 1.52,
+                "confidence": 0.5502504,
+                "punctuated_word": "Today,",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "i'll",
+                "start": 1.52,
+                "end": 1.8399999,
+                "confidence": 0.69173276,
+                "punctuated_word": "I'll",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "be",
+                "start": 1.8399999,
+                "end": 2.1599998,
+                "confidence": 0.9903542,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "completing",
+                "start": 2.1599998,
+                "end": 2.6399999,
+                "confidence": 0.8204418,
+                "punctuated_word": "completing",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "the",
+                "start": 2.6399999,
+                "end": 3.04,
+                "confidence": 0.9822894,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "ai",
+                "start": 3.04,
+                "end": 3.1999998,
+                "confidence": 0.21763286,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "inferencing",
+                "start": 3.1999998,
+                "end": 3.6999998,
+                "confidence": 0.83288145,
+                "punctuated_word": "inferencing",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "pipeline",
+                "start": 4.0,
+                "end": 4.5,
+                "confidence": 0.74874765,
+                "punctuated_word": "pipeline,",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "and",
+                "start": 4.64,
+                "end": 5.14,
+                "confidence": 0.9866476,
+                "punctuated_word": "and",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "i",
+                "start": 6.08,
+                "end": 6.24,
+                "confidence": 0.49849233,
+                "punctuated_word": "I",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "will",
+                "start": 6.24,
+                "end": 6.48,
+                "confidence": 0.8499383,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "perform",
+                "start": 6.48,
+                "end": 6.98,
+                "confidence": 0.9946774,
+                "punctuated_word": "perform",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "validation",
+                "start": 7.6,
+                "end": 8.1,
+                "confidence": 0.99575704,
+                "punctuated_word": "validation",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "and",
+                "start": 8.559999,
+                "end": 8.8,
+                "confidence": 0.96011126,
+                "punctuated_word": "and",
+                "speaker": 0,
+                "speaker_confidence": 0.80574113
+              },
+              {
+                "word": "calculate",
+                "start": 8.8,
+                "end": 9.3,
+                "confidence": 0.76331216,
+                "punctuated_word": "calculate",
+                "speaker": 0,
+                "speaker_confidence": 0.8066671
+              },
+              {
+                "word": "accuracy",
+                "start": 9.36,
+                "end": 9.86,
+                "confidence": 0.7275933,
+                "punctuated_word": "accuracy",
+                "speaker": 0,
+                "speaker_confidence": 0.8066671
+              },
+              {
+                "word": "metrics",
+                "start": 10.0,
+                "end": 10.5,
+                "confidence": 0.97502196,
+                "punctuated_word": "metrics",
+                "speaker": 0,
+                "speaker_confidence": 0.8066671
+              },
+              {
+                "word": "by",
+                "start": 12.4,
+                "end": 12.48,
+                "confidence": 0.72633666,
+                "punctuated_word": "by",
+                "speaker": 0,
+                "speaker_confidence": 0.6879605
+              },
+              {
+                "word": "today",
+                "start": 12.48,
+                "end": 12.98,
+                "confidence": 0.9663664,
+                "punctuated_word": "today.",
+                "speaker": 0,
+                "speaker_confidence": 0.6879605
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Today, I'll be completing the AI inferencing pipeline, and I will perform validation and calculate accuracy metrics by today.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Today, I'll be completing the AI inferencing pipeline, and I will perform validation and calculate accuracy metrics by today.",
+                      "start": 1.12,
+                      "end": 12.98
+                    }
+                  ],
+                  "start": 1.12,
+                  "end": 12.98,
+                  "num_words": 19,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 1.12,
+        "end": 3.6999998,
+        "confidence": 0.72651184,
+        "channel": 0,
+        "transcript": "Today, I'll be completing the AI inferencing",
+        "words": [
+          {
+            "word": "today",
+            "start": 1.12,
+            "end": 1.52,
+            "confidence": 0.5502504,
+            "punctuated_word": "Today,",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "i'll",
+            "start": 1.52,
+            "end": 1.8399999,
+            "confidence": 0.69173276,
+            "punctuated_word": "I'll",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "be",
+            "start": 1.8399999,
+            "end": 2.1599998,
+            "confidence": 0.9903542,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "completing",
+            "start": 2.1599998,
+            "end": 2.6399999,
+            "confidence": 0.8204418,
+            "punctuated_word": "completing",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "the",
+            "start": 2.6399999,
+            "end": 3.04,
+            "confidence": 0.9822894,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "ai",
+            "start": 3.04,
+            "end": 3.1999998,
+            "confidence": 0.21763286,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "inferencing",
+            "start": 3.1999998,
+            "end": 3.6999998,
+            "confidence": 0.83288145,
+            "punctuated_word": "inferencing",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          }
+        ],
+        "speaker": 0,
+        "id": "a1671a70-ca86-4642-a883-36ffbe4aad44"
+      },
+      {
+        "start": 4.0,
+        "end": 5.14,
+        "confidence": 0.8676976,
+        "channel": 0,
+        "transcript": "pipeline, and",
+        "words": [
+          {
+            "word": "pipeline",
+            "start": 4.0,
+            "end": 4.5,
+            "confidence": 0.74874765,
+            "punctuated_word": "pipeline,",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "and",
+            "start": 4.64,
+            "end": 5.14,
+            "confidence": 0.9866476,
+            "punctuated_word": "and",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          }
+        ],
+        "speaker": 0,
+        "id": "4ba5621c-fb38-4325-890c-af385adcf95f"
+      },
+      {
+        "start": 6.08,
+        "end": 6.98,
+        "confidence": 0.7810361,
+        "channel": 0,
+        "transcript": "I will perform",
+        "words": [
+          {
+            "word": "i",
+            "start": 6.08,
+            "end": 6.24,
+            "confidence": 0.49849233,
+            "punctuated_word": "I",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "will",
+            "start": 6.24,
+            "end": 6.48,
+            "confidence": 0.8499383,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "perform",
+            "start": 6.48,
+            "end": 6.98,
+            "confidence": 0.9946774,
+            "punctuated_word": "perform",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          }
+        ],
+        "speaker": 0,
+        "id": "0adeb6ff-302f-434c-8530-95d8f2f2c9df"
+      },
+      {
+        "start": 7.6,
+        "end": 8.1,
+        "confidence": 0.99575704,
+        "channel": 0,
+        "transcript": "validation",
+        "words": [
+          {
+            "word": "validation",
+            "start": 7.6,
+            "end": 8.1,
+            "confidence": 0.99575704,
+            "punctuated_word": "validation",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          }
+        ],
+        "speaker": 0,
+        "id": "9e0a5d95-3586-4bc3-af91-985ce30cf972"
+      },
+      {
+        "start": 8.559999,
+        "end": 10.5,
+        "confidence": 0.8565097,
+        "channel": 0,
+        "transcript": "and calculate accuracy metrics",
+        "words": [
+          {
+            "word": "and",
+            "start": 8.559999,
+            "end": 8.8,
+            "confidence": 0.96011126,
+            "punctuated_word": "and",
+            "speaker": 0,
+            "speaker_confidence": 0.80574113
+          },
+          {
+            "word": "calculate",
+            "start": 8.8,
+            "end": 9.3,
+            "confidence": 0.76331216,
+            "punctuated_word": "calculate",
+            "speaker": 0,
+            "speaker_confidence": 0.8066671
+          },
+          {
+            "word": "accuracy",
+            "start": 9.36,
+            "end": 9.86,
+            "confidence": 0.7275933,
+            "punctuated_word": "accuracy",
+            "speaker": 0,
+            "speaker_confidence": 0.8066671
+          },
+          {
+            "word": "metrics",
+            "start": 10.0,
+            "end": 10.5,
+            "confidence": 0.97502196,
+            "punctuated_word": "metrics",
+            "speaker": 0,
+            "speaker_confidence": 0.8066671
+          }
+        ],
+        "speaker": 0,
+        "id": "56236a1b-5603-4b4c-a2fa-ebdad1dc772f"
+      },
+      {
+        "start": 12.4,
+        "end": 12.98,
+        "confidence": 0.8463515,
+        "channel": 0,
+        "transcript": "by today.",
+        "words": [
+          {
+            "word": "by",
+            "start": 12.4,
+            "end": 12.48,
+            "confidence": 0.72633666,
+            "punctuated_word": "by",
+            "speaker": 0,
+            "speaker_confidence": 0.6879605
+          },
+          {
+            "word": "today",
+            "start": 12.48,
+            "end": 12.98,
+            "confidence": 0.9663664,
+            "punctuated_word": "today.",
+            "speaker": 0,
+            "speaker_confidence": 0.6879605
+          }
+        ],
+        "speaker": 0,
+        "id": "5bd68563-2aaf-49ea-902b-57b5507ae10b"
+      }
+    ]
+  }
+}

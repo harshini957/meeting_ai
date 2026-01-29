@@ -1,0 +1,12 @@
+# UI
+streamlit==1.31.1
+audio-recorder-streamlit==0.0.10
+
+# Speech-to-Text (LOCKED – do not upgrade mid-project)
+deepgram-sdk==4.8.0
+
+# LLM (new Gemini SDK – supported)
+google-genai>=0.3.0
+
+# Environment variables
+python-dotenv>=1.0.0

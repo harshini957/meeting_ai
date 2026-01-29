@@ -1,0 +1,6 @@
+Speaker 0: Today, I'll be completing the AI inferencing
+Speaker 0: pipeline, and
+Speaker 0: I will perform
+Speaker 0: validation
+Speaker 0: and calculate accuracy metrics
+Speaker 0: by today.

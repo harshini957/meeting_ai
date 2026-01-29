@@ -1,0 +1,7 @@
+Speaker 0: Hello, all. Today, I'll be discussing about the meeting
+Speaker 0: for the project VSCAN.
+Speaker 0: In VSCAN version 2.2, we'll be building
+Speaker 0: QTQ ML framework application,
+Speaker 0: wherein Anjana will be responsible for building the UI, and Nihan will be responsible
+Speaker 0: for building
+Speaker 0: back end, and Abhin will be responsible for building AI.

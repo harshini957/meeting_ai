@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "56fec90f-5d34-4db5-a8ef-a5971a1f66cb",
+    "sha256": "29c6697d3733d07312e8b66768f1b79f7e7eccb3b107cdeb571e93e56bdd1f58",
+    "created": "2026-01-20T11:29:34.762Z",
+    "duration": 13.312,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hello. Today, we will be discussing the AI project. We'll be taking Appen will be taking care of AI part.",
+            "confidence": 0.8568015,
+            "words": [
+              {
+                "word": "hello",
+                "start": 1.4399999,
+                "end": 1.8399999,
+                "confidence": 0.9063834,
+                "punctuated_word": "Hello.",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "today",
+                "start": 1.8399999,
+                "end": 2.32,
+                "confidence": 0.83820415,
+                "punctuated_word": "Today,",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "we",
+                "start": 2.32,
+                "end": 2.56,
+                "confidence": 0.9810414,
+                "punctuated_word": "we",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "will",
+                "start": 2.56,
+                "end": 2.6399999,
+                "confidence": 0.5136859,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "be",
+                "start": 2.6399999,
+                "end": 2.72,
+                "confidence": 0.98920107,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "discussing",
+                "start": 2.72,
+                "end": 3.22,
+                "confidence": 0.99442154,
+                "punctuated_word": "discussing",
+                "speaker": 0,
+                "speaker_confidence": 0.80362415
+              },
+              {
+                "word": "the",
+                "start": 3.6,
+                "end": 4.1,
+                "confidence": 0.4924419,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "ai",
+                "start": 4.3199997,
+                "end": 4.56,
+                "confidence": 0.086786844,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "project",
+                "start": 4.56,
+                "end": 5.06,
+                "confidence": 0.48719192,
+                "punctuated_word": "project.",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "we'll",
+                "start": 5.2799997,
+                "end": 5.7799997,
+                "confidence": 0.37224692,
+                "punctuated_word": "We'll",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "be",
+                "start": 6.08,
+                "end": 6.3199997,
+                "confidence": 0.96739525,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "taking",
+                "start": 6.3199997,
+                "end": 6.8199997,
+                "confidence": 0.6421602,
+                "punctuated_word": "taking",
+                "speaker": 0,
+                "speaker_confidence": 0.94735265
+              },
+              {
+                "word": "appen",
+                "start": 8.96,
+                "end": 9.28,
+                "confidence": 0.28375256,
+                "punctuated_word": "Appen",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "will",
+                "start": 9.28,
+                "end": 9.44,
+                "confidence": 0.8568015,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "be",
+                "start": 9.44,
+                "end": 9.599999,
+                "confidence": 0.99668056,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "taking",
+                "start": 9.599999,
+                "end": 9.92,
+                "confidence": 0.9868722,
+                "punctuated_word": "taking",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "care",
+                "start": 9.92,
+                "end": 10.24,
+                "confidence": 0.9962572,
+                "punctuated_word": "care",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "of",
+                "start": 10.24,
+                "end": 10.74,
+                "confidence": 0.98453563,
+                "punctuated_word": "of",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "ai",
+                "start": 12.0,
+                "end": 12.4,
+                "confidence": 0.62047654,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              },
+              {
+                "word": "part",
+                "start": 12.4,
+                "end": 12.9,
+                "confidence": 0.86065304,
+                "punctuated_word": "part.",
+                "speaker": 0,
+                "speaker_confidence": 0.8532982
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Hello. Today, we will be discussing the AI project. We'll be taking Appen will be taking care of AI part.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Hello.",
+                      "start": 1.4399999,
+                      "end": 1.8399999
+                    },
+                    {
+                      "text": "Today, we will be discussing the AI project.",
+                      "start": 1.8399999,
+                      "end": 5.06
+                    },
+                    {
+                      "text": "We'll be taking Appen will be taking care of AI part.",
+                      "start": 5.2799997,
+                      "end": 12.9
+                    }
+                  ],
+                  "start": 1.4399999,
+                  "end": 12.9,
+                  "num_words": 20,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 1.4399999,
+        "end": 3.22,
+        "confidence": 0.87048954,
+        "channel": 0,
+        "transcript": "Hello. Today, we will be discussing",
+        "words": [
+          {
+            "word": "hello",
+            "start": 1.4399999,
+            "end": 1.8399999,
+            "confidence": 0.9063834,
+            "punctuated_word": "Hello.",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          },
+          {
+            "word": "today",
+            "start": 1.8399999,
+            "end": 2.32,
+            "confidence": 0.83820415,
+            "punctuated_word": "Today,",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          },
+          {
+            "word": "we",
+            "start": 2.32,
+            "end": 2.56,
+            "confidence": 0.9810414,
+            "punctuated_word": "we",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          },
+          {
+            "word": "will",
+            "start": 2.56,
+            "end": 2.6399999,
+            "confidence": 0.5136859,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          },
+          {
+            "word": "be",
+            "start": 2.6399999,
+            "end": 2.72,
+            "confidence": 0.98920107,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          },
+          {
+            "word": "discussing",
+            "start": 2.72,
+            "end": 3.22,
+            "confidence": 0.99442154,
+            "punctuated_word": "discussing",
+            "speaker": 0,
+            "speaker_confidence": 0.80362415
+          }
+        ],
+        "speaker": 0,
+        "id": "053fa3a8-ce03-4ded-b128-47a73d730364"
+      },
+      {
+        "start": 3.6,
+        "end": 5.7799997,
+        "confidence": 0.35966688,
+        "channel": 0,
+        "transcript": "the AI project. We'll",
+        "words": [
+          {
+            "word": "the",
+            "start": 3.6,
+            "end": 4.1,
+            "confidence": 0.4924419,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          },
+          {
+            "word": "ai",
+            "start": 4.3199997,
+            "end": 4.56,
+            "confidence": 0.086786844,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          },
+          {
+            "word": "project",
+            "start": 4.56,
+            "end": 5.06,
+            "confidence": 0.48719192,
+            "punctuated_word": "project.",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          },
+          {
+            "word": "we'll",
+            "start": 5.2799997,
+            "end": 5.7799997,
+            "confidence": 0.37224692,
+            "punctuated_word": "We'll",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          }
+        ],
+        "speaker": 0,
+        "id": "e796f7a1-eb6e-4e2a-b4aa-3036ea2a9f67"
+      },
+      {
+        "start": 6.08,
+        "end": 6.8199997,
+        "confidence": 0.80477774,
+        "channel": 0,
+        "transcript": "be taking",
+        "words": [
+          {
+            "word": "be",
+            "start": 6.08,
+            "end": 6.3199997,
+            "confidence": 0.96739525,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          },
+          {
+            "word": "taking",
+            "start": 6.3199997,
+            "end": 6.8199997,
+            "confidence": 0.6421602,
+            "punctuated_word": "taking",
+            "speaker": 0,
+            "speaker_confidence": 0.94735265
+          }
+        ],
+        "speaker": 0,
+        "id": "68588684-92a2-4b77-954f-aa1b066d3e4b"
+      },
+      {
+        "start": 8.96,
+        "end": 10.74,
+        "confidence": 0.85081667,
+        "channel": 0,
+        "transcript": "Appen will be taking care of",
+        "words": [
+          {
+            "word": "appen",
+            "start": 8.96,
+            "end": 9.28,
+            "confidence": 0.28375256,
+            "punctuated_word": "Appen",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "will",
+            "start": 9.28,
+            "end": 9.44,
+            "confidence": 0.8568015,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "be",
+            "start": 9.44,
+            "end": 9.599999,
+            "confidence": 0.99668056,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "taking",
+            "start": 9.599999,
+            "end": 9.92,
+            "confidence": 0.9868722,
+            "punctuated_word": "taking",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "care",
+            "start": 9.92,
+            "end": 10.24,
+            "confidence": 0.9962572,
+            "punctuated_word": "care",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "of",
+            "start": 10.24,
+            "end": 10.74,
+            "confidence": 0.98453563,
+            "punctuated_word": "of",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          }
+        ],
+        "speaker": 0,
+        "id": "0a7da104-3e35-4e84-909f-9afa4f742d03"
+      },
+      {
+        "start": 12.0,
+        "end": 12.9,
+        "confidence": 0.7405648,
+        "channel": 0,
+        "transcript": "AI part.",
+        "words": [
+          {
+            "word": "ai",
+            "start": 12.0,
+            "end": 12.4,
+            "confidence": 0.62047654,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          },
+          {
+            "word": "part",
+            "start": 12.4,
+            "end": 12.9,
+            "confidence": 0.86065304,
+            "punctuated_word": "part.",
+            "speaker": 0,
+            "speaker_confidence": 0.8532982
+          }
+        ],
+        "speaker": 0,
+        "id": "d2f1cedc-13f4-45c0-ad1d-7b44d21fd845"
+      }
+    ]
+  }
+}

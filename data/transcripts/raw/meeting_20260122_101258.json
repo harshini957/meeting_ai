@@ -1,0 +1,1144 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "a20d6891-e8b7-4a7c-bc59-0770f57ce0c7",
+    "sha256": "830835f19f0c18ab594659261635387549f20ac688a6b9bfb46f598e2dfaf502",
+    "created": "2026-01-22T04:44:57.939Z",
+    "duration": 26.624,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Yeah, Anjana. That you're speaking about that AI integration. We'll complete it by today. Okay. So let's integrate that, AI model you have, done with that, UI AI credit card button. So it will run and detect the AI bounding box. We'll do it. We'll try finishing it by today or tomorrow. Okay.",
+            "confidence": 0.96825767,
+            "words": [
+              {
+                "word": "yeah",
+                "start": 0.39999998,
+                "end": 0.64,
+                "confidence": 0.44839153,
+                "punctuated_word": "Yeah,",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "anjana",
+                "start": 0.64,
+                "end": 1.14,
+                "confidence": 0.6803733,
+                "punctuated_word": "Anjana.",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "that",
+                "start": 1.5999999,
+                "end": 1.8399999,
+                "confidence": 0.9455461,
+                "punctuated_word": "That",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "you're",
+                "start": 1.8399999,
+                "end": 2.1599998,
+                "confidence": 0.6184124,
+                "punctuated_word": "you're",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "speaking",
+                "start": 2.1599998,
+                "end": 2.56,
+                "confidence": 0.9948249,
+                "punctuated_word": "speaking",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "about",
+                "start": 2.56,
+                "end": 2.8799999,
+                "confidence": 0.9923299,
+                "punctuated_word": "about",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "that",
+                "start": 2.8799999,
+                "end": 3.12,
+                "confidence": 0.90568906,
+                "punctuated_word": "that",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "ai",
+                "start": 3.12,
+                "end": 3.4399998,
+                "confidence": 0.8402484,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "integration",
+                "start": 3.4399998,
+                "end": 3.9199998,
+                "confidence": 0.85817575,
+                "punctuated_word": "integration.",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "we'll",
+                "start": 3.9199998,
+                "end": 4.24,
+                "confidence": 0.56000966,
+                "punctuated_word": "We'll",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "complete",
+                "start": 4.24,
+                "end": 4.72,
+                "confidence": 0.7639066,
+                "punctuated_word": "complete",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "it",
+                "start": 4.72,
+                "end": 4.88,
+                "confidence": 0.9623623,
+                "punctuated_word": "it",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "by",
+                "start": 4.88,
+                "end": 5.04,
+                "confidence": 0.9425502,
+                "punctuated_word": "by",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "today",
+                "start": 5.04,
+                "end": 5.54,
+                "confidence": 0.7684115,
+                "punctuated_word": "today.",
+                "speaker": 0,
+                "speaker_confidence": 0.5138023
+              },
+              {
+                "word": "okay",
+                "start": 6.3999996,
+                "end": 6.64,
+                "confidence": 0.66677964,
+                "punctuated_word": "Okay.",
+                "speaker": 0,
+                "speaker_confidence": 0.65149736
+              },
+              {
+                "word": "so",
+                "start": 6.64,
+                "end": 7.04,
+                "confidence": 0.36944818,
+                "punctuated_word": "So",
+                "speaker": 0,
+                "speaker_confidence": 0.65149736
+              },
+              {
+                "word": "let's",
+                "start": 7.04,
+                "end": 7.44,
+                "confidence": 0.95121944,
+                "punctuated_word": "let's",
+                "speaker": 0,
+                "speaker_confidence": 0.65149736
+              },
+              {
+                "word": "integrate",
+                "start": 7.44,
+                "end": 7.9199996,
+                "confidence": 0.96825767,
+                "punctuated_word": "integrate",
+                "speaker": 0,
+                "speaker_confidence": 0.65149736
+              },
+              {
+                "word": "that",
+                "start": 7.9199996,
+                "end": 8.42,
+                "confidence": 0.9782021,
+                "punctuated_word": "that,",
+                "speaker": 0,
+                "speaker_confidence": 0.65149736
+              },
+              {
+                "word": "ai",
+                "start": 9.12,
+                "end": 9.36,
+                "confidence": 0.99488884,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "model",
+                "start": 9.36,
+                "end": 9.76,
+                "confidence": 0.988209,
+                "punctuated_word": "model",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "you",
+                "start": 9.76,
+                "end": 9.92,
+                "confidence": 0.9744767,
+                "punctuated_word": "you",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "have",
+                "start": 9.92,
+                "end": 10.24,
+                "confidence": 0.87125397,
+                "punctuated_word": "have,",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "done",
+                "start": 10.639999,
+                "end": 11.139999,
+                "confidence": 0.9985526,
+                "punctuated_word": "done",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "with",
+                "start": 11.28,
+                "end": 11.5199995,
+                "confidence": 0.9279563,
+                "punctuated_word": "with",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "that",
+                "start": 11.5199995,
+                "end": 11.84,
+                "confidence": 0.9662005,
+                "punctuated_word": "that,",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "ui",
+                "start": 12.24,
+                "end": 12.74,
+                "confidence": 0.9838306,
+                "punctuated_word": "UI",
+                "speaker": 0,
+                "speaker_confidence": 0.678471
+              },
+              {
+                "word": "ai",
+                "start": 12.96,
+                "end": 13.12,
+                "confidence": 0.72090304,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "credit",
+                "start": 13.12,
+                "end": 13.599999,
+                "confidence": 0.903939,
+                "punctuated_word": "credit",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "card",
+                "start": 13.599999,
+                "end": 14.055,
+                "confidence": 0.34454432,
+                "punctuated_word": "card",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "button",
+                "start": 14.535,
+                "end": 15.035,
+                "confidence": 0.8524425,
+                "punctuated_word": "button.",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "so",
+                "start": 15.255,
+                "end": 15.755,
+                "confidence": 0.99848014,
+                "punctuated_word": "So",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "it",
+                "start": 16.215,
+                "end": 16.375,
+                "confidence": 0.9362624,
+                "punctuated_word": "it",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "will",
+                "start": 16.375,
+                "end": 16.875,
+                "confidence": 0.9877851,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "run",
+                "start": 16.975,
+                "end": 17.475,
+                "confidence": 0.9835939,
+                "punctuated_word": "run",
+                "speaker": 0,
+                "speaker_confidence": 0.66848505
+              },
+              {
+                "word": "and",
+                "start": 17.575,
+                "end": 17.815,
+                "confidence": 0.9723592,
+                "punctuated_word": "and",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "detect",
+                "start": 17.815,
+                "end": 18.315,
+                "confidence": 0.99249,
+                "punctuated_word": "detect",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "the",
+                "start": 18.375,
+                "end": 18.875,
+                "confidence": 0.9930346,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "ai",
+                "start": 20.135,
+                "end": 20.295,
+                "confidence": 0.9896172,
+                "punctuated_word": "AI",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "bounding",
+                "start": 20.295,
+                "end": 20.795,
+                "confidence": 0.82465994,
+                "punctuated_word": "bounding",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "box",
+                "start": 20.935,
+                "end": 21.435,
+                "confidence": 0.437414,
+                "punctuated_word": "box.",
+                "speaker": 0,
+                "speaker_confidence": 0.66381985
+              },
+              {
+                "word": "we'll",
+                "start": 22.135,
+                "end": 22.375,
+                "confidence": 0.8741613,
+                "punctuated_word": "We'll",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "do",
+                "start": 22.375,
+                "end": 22.615,
+                "confidence": 0.9968719,
+                "punctuated_word": "do",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "it",
+                "start": 22.615,
+                "end": 22.775002,
+                "confidence": 0.9760524,
+                "punctuated_word": "it.",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "we'll",
+                "start": 22.775002,
+                "end": 22.935001,
+                "confidence": 0.9969858,
+                "punctuated_word": "We'll",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "try",
+                "start": 22.935001,
+                "end": 23.335,
+                "confidence": 0.99221134,
+                "punctuated_word": "try",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "finishing",
+                "start": 23.335,
+                "end": 23.835,
+                "confidence": 0.34173664,
+                "punctuated_word": "finishing",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "it",
+                "start": 24.055,
+                "end": 24.215,
+                "confidence": 0.9828272,
+                "punctuated_word": "it",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "by",
+                "start": 24.215,
+                "end": 24.455,
+                "confidence": 0.93928903,
+                "punctuated_word": "by",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "today",
+                "start": 24.455,
+                "end": 24.695,
+                "confidence": 0.9904503,
+                "punctuated_word": "today",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "or",
+                "start": 24.695,
+                "end": 24.855,
+                "confidence": 0.9961436,
+                "punctuated_word": "or",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "tomorrow",
+                "start": 24.855,
+                "end": 25.355,
+                "confidence": 0.9799664,
+                "punctuated_word": "tomorrow.",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              },
+              {
+                "word": "okay",
+                "start": 25.415,
+                "end": 25.915,
+                "confidence": 0.99631774,
+                "punctuated_word": "Okay.",
+                "speaker": 0,
+                "speaker_confidence": 0.3747735
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Yeah, Anjana. That you're speaking about that AI integration. We'll complete it by today. Okay. So let's integrate that, AI model you have, done with that, UI AI credit card button.\n\nSo it will run and detect the AI bounding box. We'll do it. We'll try finishing it by today or tomorrow. Okay.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Yeah, Anjana.",
+                      "start": 0.39999998,
+                      "end": 1.14
+                    },
+                    {
+                      "text": "That you're speaking about that AI integration.",
+                      "start": 1.5999999,
+                      "end": 3.9199998
+                    },
+                    {
+                      "text": "We'll complete it by today.",
+                      "start": 3.9199998,
+                      "end": 5.54
+                    },
+                    {
+                      "text": "Okay.",
+                      "start": 6.3999996,
+                      "end": 6.64
+                    },
+                    {
+                      "text": "So let's integrate that, AI model you have, done with that, UI AI credit card button.",
+                      "start": 6.64,
+                      "end": 15.035
+                    }
+                  ],
+                  "start": 0.39999998,
+                  "end": 15.035,
+                  "num_words": 31,
+                  "speaker": 0
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "So it will run and detect the AI bounding box.",
+                      "start": 15.255,
+                      "end": 21.435
+                    },
+                    {
+                      "text": "We'll do it.",
+                      "start": 22.135,
+                      "end": 22.775002
+                    },
+                    {
+                      "text": "We'll try finishing it by today or tomorrow.",
+                      "start": 22.775002,
+                      "end": 25.355
+                    },
+                    {
+                      "text": "Okay.",
+                      "start": 25.415,
+                      "end": 25.915
+                    }
+                  ],
+                  "start": 15.255,
+                  "end": 25.915,
+                  "num_words": 22,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.39999998,
+        "end": 1.14,
+        "confidence": 0.56438243,
+        "channel": 0,
+        "transcript": "Yeah, Anjana.",
+        "words": [
+          {
+            "word": "yeah",
+            "start": 0.39999998,
+            "end": 0.64,
+            "confidence": 0.44839153,
+            "punctuated_word": "Yeah,",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "anjana",
+            "start": 0.64,
+            "end": 1.14,
+            "confidence": 0.6803733,
+            "punctuated_word": "Anjana.",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          }
+        ],
+        "speaker": 0,
+        "id": "4d2094a4-bac3-47f5-89a0-6ce328b393fe"
+      },
+      {
+        "start": 1.5999999,
+        "end": 5.54,
+        "confidence": 0.846039,
+        "channel": 0,
+        "transcript": "That you're speaking about that AI integration. We'll complete it by today.",
+        "words": [
+          {
+            "word": "that",
+            "start": 1.5999999,
+            "end": 1.8399999,
+            "confidence": 0.9455461,
+            "punctuated_word": "That",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "you're",
+            "start": 1.8399999,
+            "end": 2.1599998,
+            "confidence": 0.6184124,
+            "punctuated_word": "you're",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "speaking",
+            "start": 2.1599998,
+            "end": 2.56,
+            "confidence": 0.9948249,
+            "punctuated_word": "speaking",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "about",
+            "start": 2.56,
+            "end": 2.8799999,
+            "confidence": 0.9923299,
+            "punctuated_word": "about",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "that",
+            "start": 2.8799999,
+            "end": 3.12,
+            "confidence": 0.90568906,
+            "punctuated_word": "that",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "ai",
+            "start": 3.12,
+            "end": 3.4399998,
+            "confidence": 0.8402484,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "integration",
+            "start": 3.4399998,
+            "end": 3.9199998,
+            "confidence": 0.85817575,
+            "punctuated_word": "integration.",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "we'll",
+            "start": 3.9199998,
+            "end": 4.24,
+            "confidence": 0.56000966,
+            "punctuated_word": "We'll",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "complete",
+            "start": 4.24,
+            "end": 4.72,
+            "confidence": 0.7639066,
+            "punctuated_word": "complete",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "it",
+            "start": 4.72,
+            "end": 4.88,
+            "confidence": 0.9623623,
+            "punctuated_word": "it",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "by",
+            "start": 4.88,
+            "end": 5.04,
+            "confidence": 0.9425502,
+            "punctuated_word": "by",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          },
+          {
+            "word": "today",
+            "start": 5.04,
+            "end": 5.54,
+            "confidence": 0.7684115,
+            "punctuated_word": "today.",
+            "speaker": 0,
+            "speaker_confidence": 0.5138023
+          }
+        ],
+        "speaker": 0,
+        "id": "c8bfb09c-2053-4dc6-adcb-01047970501e"
+      },
+      {
+        "start": 6.3999996,
+        "end": 8.42,
+        "confidence": 0.78678143,
+        "channel": 0,
+        "transcript": "Okay. So let's integrate that,",
+        "words": [
+          {
+            "word": "okay",
+            "start": 6.3999996,
+            "end": 6.64,
+            "confidence": 0.66677964,
+            "punctuated_word": "Okay.",
+            "speaker": 0,
+            "speaker_confidence": 0.65149736
+          },
+          {
+            "word": "so",
+            "start": 6.64,
+            "end": 7.04,
+            "confidence": 0.36944818,
+            "punctuated_word": "So",
+            "speaker": 0,
+            "speaker_confidence": 0.65149736
+          },
+          {
+            "word": "let's",
+            "start": 7.04,
+            "end": 7.44,
+            "confidence": 0.95121944,
+            "punctuated_word": "let's",
+            "speaker": 0,
+            "speaker_confidence": 0.65149736
+          },
+          {
+            "word": "integrate",
+            "start": 7.44,
+            "end": 7.9199996,
+            "confidence": 0.96825767,
+            "punctuated_word": "integrate",
+            "speaker": 0,
+            "speaker_confidence": 0.65149736
+          },
+          {
+            "word": "that",
+            "start": 7.9199996,
+            "end": 8.42,
+            "confidence": 0.9782021,
+            "punctuated_word": "that,",
+            "speaker": 0,
+            "speaker_confidence": 0.65149736
+          }
+        ],
+        "speaker": 0,
+        "id": "9382c8a0-2498-457a-a5b9-5de169ce5817"
+      },
+      {
+        "start": 9.12,
+        "end": 14.055,
+        "confidence": 0.8795232,
+        "channel": 0,
+        "transcript": "AI model you have, done with that, UI AI credit card",
+        "words": [
+          {
+            "word": "ai",
+            "start": 9.12,
+            "end": 9.36,
+            "confidence": 0.99488884,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "model",
+            "start": 9.36,
+            "end": 9.76,
+            "confidence": 0.988209,
+            "punctuated_word": "model",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "you",
+            "start": 9.76,
+            "end": 9.92,
+            "confidence": 0.9744767,
+            "punctuated_word": "you",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "have",
+            "start": 9.92,
+            "end": 10.24,
+            "confidence": 0.87125397,
+            "punctuated_word": "have,",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "done",
+            "start": 10.639999,
+            "end": 11.139999,
+            "confidence": 0.9985526,
+            "punctuated_word": "done",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "with",
+            "start": 11.28,
+            "end": 11.5199995,
+            "confidence": 0.9279563,
+            "punctuated_word": "with",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "that",
+            "start": 11.5199995,
+            "end": 11.84,
+            "confidence": 0.9662005,
+            "punctuated_word": "that,",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "ui",
+            "start": 12.24,
+            "end": 12.74,
+            "confidence": 0.9838306,
+            "punctuated_word": "UI",
+            "speaker": 0,
+            "speaker_confidence": 0.678471
+          },
+          {
+            "word": "ai",
+            "start": 12.96,
+            "end": 13.12,
+            "confidence": 0.72090304,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "credit",
+            "start": 13.12,
+            "end": 13.599999,
+            "confidence": 0.903939,
+            "punctuated_word": "credit",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "card",
+            "start": 13.599999,
+            "end": 14.055,
+            "confidence": 0.34454432,
+            "punctuated_word": "card",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          }
+        ],
+        "speaker": 0,
+        "id": "cb94b2f0-b3cf-45b8-88f6-ba58cf1a7bd8"
+      },
+      {
+        "start": 14.535,
+        "end": 15.755,
+        "confidence": 0.9254613,
+        "channel": 0,
+        "transcript": "button. So",
+        "words": [
+          {
+            "word": "button",
+            "start": 14.535,
+            "end": 15.035,
+            "confidence": 0.8524425,
+            "punctuated_word": "button.",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "so",
+            "start": 15.255,
+            "end": 15.755,
+            "confidence": 0.99848014,
+            "punctuated_word": "So",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          }
+        ],
+        "speaker": 0,
+        "id": "ebc44c6a-7637-4bde-a5f8-680343f1f799"
+      },
+      {
+        "start": 16.215,
+        "end": 18.875,
+        "confidence": 0.9775875,
+        "channel": 0,
+        "transcript": "it will run and detect the",
+        "words": [
+          {
+            "word": "it",
+            "start": 16.215,
+            "end": 16.375,
+            "confidence": 0.9362624,
+            "punctuated_word": "it",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "will",
+            "start": 16.375,
+            "end": 16.875,
+            "confidence": 0.9877851,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "run",
+            "start": 16.975,
+            "end": 17.475,
+            "confidence": 0.9835939,
+            "punctuated_word": "run",
+            "speaker": 0,
+            "speaker_confidence": 0.66848505
+          },
+          {
+            "word": "and",
+            "start": 17.575,
+            "end": 17.815,
+            "confidence": 0.9723592,
+            "punctuated_word": "and",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          },
+          {
+            "word": "detect",
+            "start": 17.815,
+            "end": 18.315,
+            "confidence": 0.99249,
+            "punctuated_word": "detect",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          },
+          {
+            "word": "the",
+            "start": 18.375,
+            "end": 18.875,
+            "confidence": 0.9930346,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          }
+        ],
+        "speaker": 0,
+        "id": "71d7e409-2525-4ed2-9f62-6850c9242112"
+      },
+      {
+        "start": 20.135,
+        "end": 21.435,
+        "confidence": 0.7505637,
+        "channel": 0,
+        "transcript": "AI bounding box.",
+        "words": [
+          {
+            "word": "ai",
+            "start": 20.135,
+            "end": 20.295,
+            "confidence": 0.9896172,
+            "punctuated_word": "AI",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          },
+          {
+            "word": "bounding",
+            "start": 20.295,
+            "end": 20.795,
+            "confidence": 0.82465994,
+            "punctuated_word": "bounding",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          },
+          {
+            "word": "box",
+            "start": 20.935,
+            "end": 21.435,
+            "confidence": 0.437414,
+            "punctuated_word": "box.",
+            "speaker": 0,
+            "speaker_confidence": 0.66381985
+          }
+        ],
+        "speaker": 0,
+        "id": "314a8db8-6086-4bf6-820d-e3302d89b848"
+      },
+      {
+        "start": 22.135,
+        "end": 25.915,
+        "confidence": 0.92191774,
+        "channel": 0,
+        "transcript": "We'll do it. We'll try finishing it by today or tomorrow. Okay.",
+        "words": [
+          {
+            "word": "we'll",
+            "start": 22.135,
+            "end": 22.375,
+            "confidence": 0.8741613,
+            "punctuated_word": "We'll",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "do",
+            "start": 22.375,
+            "end": 22.615,
+            "confidence": 0.9968719,
+            "punctuated_word": "do",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "it",
+            "start": 22.615,
+            "end": 22.775002,
+            "confidence": 0.9760524,
+            "punctuated_word": "it.",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "we'll",
+            "start": 22.775002,
+            "end": 22.935001,
+            "confidence": 0.9969858,
+            "punctuated_word": "We'll",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "try",
+            "start": 22.935001,
+            "end": 23.335,
+            "confidence": 0.99221134,
+            "punctuated_word": "try",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "finishing",
+            "start": 23.335,
+            "end": 23.835,
+            "confidence": 0.34173664,
+            "punctuated_word": "finishing",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "it",
+            "start": 24.055,
+            "end": 24.215,
+            "confidence": 0.9828272,
+            "punctuated_word": "it",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "by",
+            "start": 24.215,
+            "end": 24.455,
+            "confidence": 0.93928903,
+            "punctuated_word": "by",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "today",
+            "start": 24.455,
+            "end": 24.695,
+            "confidence": 0.9904503,
+            "punctuated_word": "today",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "or",
+            "start": 24.695,
+            "end": 24.855,
+            "confidence": 0.9961436,
+            "punctuated_word": "or",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "tomorrow",
+            "start": 24.855,
+            "end": 25.355,
+            "confidence": 0.9799664,
+            "punctuated_word": "tomorrow.",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          },
+          {
+            "word": "okay",
+            "start": 25.415,
+            "end": 25.915,
+            "confidence": 0.99631774,
+            "punctuated_word": "Okay.",
+            "speaker": 0,
+            "speaker_confidence": 0.3747735
+          }
+        ],
+        "speaker": 0,
+        "id": "a09ea0ae-ac8d-4127-b8cd-a92b61eaf7cc"
+      }
+    ]
+  }
+}

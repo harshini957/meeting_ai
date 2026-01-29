@@ -1,0 +1,933 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "83d02e46-6837-4330-b249-ec706cd04493",
+    "sha256": "e47abf6153396a3f323fd167a8181cc8353d655ae30a3ce3e767c1198caed9ce",
+    "created": "2026-01-20T11:19:02.485Z",
+    "duration": 14.464,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Good evening, Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good",
+            "confidence": 0.8247864,
+            "words": [
+              {
+                "word": "good",
+                "start": 1.4399999,
+                "end": 1.76,
+                "confidence": 0.96972793,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.35272318
+              },
+              {
+                "word": "evening",
+                "start": 1.76,
+                "end": 1.794074,
+                "confidence": 0.93494797,
+                "punctuated_word": "evening,",
+                "speaker": 0,
+                "speaker_confidence": 0.35272318
+              },
+              {
+                "word": "good",
+                "start": 1.8281481,
+                "end": 1.8622222,
+                "confidence": 0.7543138,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.35272318
+              },
+              {
+                "word": "evening",
+                "start": 1.8622222,
+                "end": 1.8962963,
+                "confidence": 0.59837615,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.35272318
+              },
+              {
+                "word": "good",
+                "start": 1.8962963,
+                "end": 1.9303705,
+                "confidence": 0.6963686,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.20337439
+              },
+              {
+                "word": "evening",
+                "start": 1.9303705,
+                "end": 1.9644445,
+                "confidence": 0.6709943,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.20337439
+              },
+              {
+                "word": "good",
+                "start": 1.9644445,
+                "end": 1.9985186,
+                "confidence": 0.5332769,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.20337439
+              },
+              {
+                "word": "evening",
+                "start": 1.9985186,
+                "end": 2.0325928,
+                "confidence": 0.7118703,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.20337439
+              },
+              {
+                "word": "good",
+                "start": 2.0325928,
+                "end": 2.0666666,
+                "confidence": 0.3572591,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "evening",
+                "start": 2.0666666,
+                "end": 2.100741,
+                "confidence": 0.71986234,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "good",
+                "start": 2.100741,
+                "end": 2.134815,
+                "confidence": 0.32873848,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "evening",
+                "start": 2.134815,
+                "end": 2.168889,
+                "confidence": 0.75021607,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "good",
+                "start": 2.168889,
+                "end": 2.202963,
+                "confidence": 0.36948544,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "evening",
+                "start": 2.202963,
+                "end": 2.2370372,
+                "confidence": 0.7749915,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "good",
+                "start": 2.2370372,
+                "end": 2.2711112,
+                "confidence": 0.46928173,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "evening",
+                "start": 2.2711112,
+                "end": 2.3051853,
+                "confidence": 0.7868023,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "good",
+                "start": 2.3051853,
+                "end": 2.3392594,
+                "confidence": 0.6126883,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "evening",
+                "start": 2.3392594,
+                "end": 2.3733335,
+                "confidence": 0.7989381,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.042532682
+              },
+              {
+                "word": "good",
+                "start": 2.3733335,
+                "end": 2.6577778,
+                "confidence": 0.6696109,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.41695702
+              },
+              {
+                "word": "evening",
+                "start": 2.6577778,
+                "end": 2.942222,
+                "confidence": 0.81553304,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.41695702
+              },
+              {
+                "word": "good",
+                "start": 2.942222,
+                "end": 3.2266667,
+                "confidence": 0.7651807,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.41695702
+              },
+              {
+                "word": "evening",
+                "start": 3.2266667,
+                "end": 3.5111113,
+                "confidence": 0.8301008,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.41695702
+              },
+              {
+                "word": "good",
+                "start": 3.5111113,
+                "end": 3.7955556,
+                "confidence": 0.8226409,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 3.7955556,
+                "end": 4.08,
+                "confidence": 0.8335358,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 4.08,
+                "end": 4.4049997,
+                "confidence": 0.8247864,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 4.4049997,
+                "end": 4.73,
+                "confidence": 0.83520585,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 4.73,
+                "end": 5.055,
+                "confidence": 0.85583806,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 5.055,
+                "end": 5.38,
+                "confidence": 0.8471945,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 5.38,
+                "end": 5.705,
+                "confidence": 0.86224365,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 5.705,
+                "end": 6.0299997,
+                "confidence": 0.8495178,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 6.0299997,
+                "end": 6.355,
+                "confidence": 0.8641688,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 6.355,
+                "end": 6.6800003,
+                "confidence": 0.84993744,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 6.6800003,
+                "end": 7.005,
+                "confidence": 0.8803078,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 7.005,
+                "end": 7.33,
+                "confidence": 0.85435325,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 7.33,
+                "end": 7.655,
+                "confidence": 0.8778351,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 7.655,
+                "end": 7.98,
+                "confidence": 0.85163,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 7.98,
+                "end": 8.305,
+                "confidence": 0.8680143,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 8.305,
+                "end": 8.63,
+                "confidence": 0.8460579,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 8.63,
+                "end": 8.88,
+                "confidence": 0.855096,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "evening",
+                "start": 8.88,
+                "end": 9.38,
+                "confidence": 0.85117495,
+                "punctuated_word": "evening.",
+                "speaker": 0,
+                "speaker_confidence": 0.34675837
+              },
+              {
+                "word": "good",
+                "start": 12.32,
+                "end": 12.82,
+                "confidence": 0.8578079,
+                "punctuated_word": "Good",
+                "speaker": 0,
+                "speaker_confidence": 0.3565129
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Good evening, Good evening. Good evening. Good evening. Good evening. Good evening.\n\nGood evening. Good evening. Good evening. Good evening. Good evening.\n\nGood evening. Good evening. Good evening. Good evening. Good evening.\n\nGood evening. Good evening. Good evening. Good evening. Good",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Good evening, Good evening.",
+                      "start": 1.4399999,
+                      "end": 1.8962963
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 1.8962963,
+                      "end": 1.9644445
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 1.9644445,
+                      "end": 2.0325928
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.0325928,
+                      "end": 2.100741
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.100741,
+                      "end": 2.168889
+                    }
+                  ],
+                  "start": 1.4399999,
+                  "end": 2.168889,
+                  "num_words": 12,
+                  "speaker": 0
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Good evening.",
+                      "start": 2.168889,
+                      "end": 2.2370372
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.2370372,
+                      "end": 2.3051853
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.3051853,
+                      "end": 2.3733335
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.3733335,
+                      "end": 2.942222
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 2.942222,
+                      "end": 3.5111113
+                    }
+                  ],
+                  "start": 2.168889,
+                  "end": 3.5111113,
+                  "num_words": 10,
+                  "speaker": 0
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Good evening.",
+                      "start": 3.5111113,
+                      "end": 4.08
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 4.08,
+                      "end": 4.73
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 4.73,
+                      "end": 5.38
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 5.38,
+                      "end": 6.0299997
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 6.0299997,
+                      "end": 6.6800003
+                    }
+                  ],
+                  "start": 3.5111113,
+                  "end": 6.6800003,
+                  "num_words": 10,
+                  "speaker": 0
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Good evening.",
+                      "start": 6.6800003,
+                      "end": 7.33
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 7.33,
+                      "end": 7.98
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 7.98,
+                      "end": 8.63
+                    },
+                    {
+                      "text": "Good evening.",
+                      "start": 8.63,
+                      "end": 9.38
+                    },
+                    {
+                      "text": "Good",
+                      "start": 12.32,
+                      "end": 12.82
+                    }
+                  ],
+                  "start": 6.6800003,
+                  "end": 12.82,
+                  "num_words": 9,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 1.4399999,
+        "end": 9.38,
+        "confidence": 0.7562026,
+        "channel": 0,
+        "transcript": "Good evening, Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening. Good evening.",
+        "words": [
+          {
+            "word": "good",
+            "start": 1.4399999,
+            "end": 1.76,
+            "confidence": 0.96972793,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.35272318
+          },
+          {
+            "word": "evening",
+            "start": 1.76,
+            "end": 1.794074,
+            "confidence": 0.93494797,
+            "punctuated_word": "evening,",
+            "speaker": 0,
+            "speaker_confidence": 0.35272318
+          },
+          {
+            "word": "good",
+            "start": 1.8281481,
+            "end": 1.8622222,
+            "confidence": 0.7543138,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.35272318
+          },
+          {
+            "word": "evening",
+            "start": 1.8622222,
+            "end": 1.8962963,
+            "confidence": 0.59837615,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.35272318
+          },
+          {
+            "word": "good",
+            "start": 1.8962963,
+            "end": 1.9303705,
+            "confidence": 0.6963686,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.20337439
+          },
+          {
+            "word": "evening",
+            "start": 1.9303705,
+            "end": 1.9644445,
+            "confidence": 0.6709943,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.20337439
+          },
+          {
+            "word": "good",
+            "start": 1.9644445,
+            "end": 1.9985186,
+            "confidence": 0.5332769,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.20337439
+          },
+          {
+            "word": "evening",
+            "start": 1.9985186,
+            "end": 2.0325928,
+            "confidence": 0.7118703,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.20337439
+          },
+          {
+            "word": "good",
+            "start": 2.0325928,
+            "end": 2.0666666,
+            "confidence": 0.3572591,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "evening",
+            "start": 2.0666666,
+            "end": 2.100741,
+            "confidence": 0.71986234,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "good",
+            "start": 2.100741,
+            "end": 2.134815,
+            "confidence": 0.32873848,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "evening",
+            "start": 2.134815,
+            "end": 2.168889,
+            "confidence": 0.75021607,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "good",
+            "start": 2.168889,
+            "end": 2.202963,
+            "confidence": 0.36948544,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "evening",
+            "start": 2.202963,
+            "end": 2.2370372,
+            "confidence": 0.7749915,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "good",
+            "start": 2.2370372,
+            "end": 2.2711112,
+            "confidence": 0.46928173,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "evening",
+            "start": 2.2711112,
+            "end": 2.3051853,
+            "confidence": 0.7868023,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "good",
+            "start": 2.3051853,
+            "end": 2.3392594,
+            "confidence": 0.6126883,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "evening",
+            "start": 2.3392594,
+            "end": 2.3733335,
+            "confidence": 0.7989381,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.042532682
+          },
+          {
+            "word": "good",
+            "start": 2.3733335,
+            "end": 2.6577778,
+            "confidence": 0.6696109,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.41695702
+          },
+          {
+            "word": "evening",
+            "start": 2.6577778,
+            "end": 2.942222,
+            "confidence": 0.81553304,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.41695702
+          },
+          {
+            "word": "good",
+            "start": 2.942222,
+            "end": 3.2266667,
+            "confidence": 0.7651807,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.41695702
+          },
+          {
+            "word": "evening",
+            "start": 3.2266667,
+            "end": 3.5111113,
+            "confidence": 0.8301008,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.41695702
+          },
+          {
+            "word": "good",
+            "start": 3.5111113,
+            "end": 3.7955556,
+            "confidence": 0.8226409,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 3.7955556,
+            "end": 4.08,
+            "confidence": 0.8335358,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 4.08,
+            "end": 4.4049997,
+            "confidence": 0.8247864,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 4.4049997,
+            "end": 4.73,
+            "confidence": 0.83520585,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 4.73,
+            "end": 5.055,
+            "confidence": 0.85583806,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 5.055,
+            "end": 5.38,
+            "confidence": 0.8471945,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 5.38,
+            "end": 5.705,
+            "confidence": 0.86224365,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 5.705,
+            "end": 6.0299997,
+            "confidence": 0.8495178,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 6.0299997,
+            "end": 6.355,
+            "confidence": 0.8641688,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 6.355,
+            "end": 6.6800003,
+            "confidence": 0.84993744,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 6.6800003,
+            "end": 7.005,
+            "confidence": 0.8803078,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 7.005,
+            "end": 7.33,
+            "confidence": 0.85435325,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 7.33,
+            "end": 7.655,
+            "confidence": 0.8778351,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 7.655,
+            "end": 7.98,
+            "confidence": 0.85163,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 7.98,
+            "end": 8.305,
+            "confidence": 0.8680143,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 8.305,
+            "end": 8.63,
+            "confidence": 0.8460579,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "good",
+            "start": 8.63,
+            "end": 8.88,
+            "confidence": 0.855096,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          },
+          {
+            "word": "evening",
+            "start": 8.88,
+            "end": 9.38,
+            "confidence": 0.85117495,
+            "punctuated_word": "evening.",
+            "speaker": 0,
+            "speaker_confidence": 0.34675837
+          }
+        ],
+        "speaker": 0,
+        "id": "4fbb3715-1799-4e1a-9a1f-e7be5d4ba2dc"
+      },
+      {
+        "start": 12.32,
+        "end": 12.82,
+        "confidence": 0.8578079,
+        "channel": 0,
+        "transcript": "Good",
+        "words": [
+          {
+            "word": "good",
+            "start": 12.32,
+            "end": 12.82,
+            "confidence": 0.8578079,
+            "punctuated_word": "Good",
+            "speaker": 0,
+            "speaker_confidence": 0.3565129
+          }
+        ],
+        "speaker": 0,
+        "id": "0c917e61-215b-4e30-bf81-759cb001e074"
+      }
+    ]
+  }
+}

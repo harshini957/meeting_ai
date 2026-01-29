@@ -1,0 +1,690 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "04929287-5395-44a6-912a-5daf9552f418",
+    "sha256": "905c18b7b689c7d5bec53709cee74ce53aaf4e1e12d39ccb999a72214c82a4d6",
+    "created": "2026-01-20T12:06:01.017Z",
+    "duration": 18.944,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "So today, we'll be looking about the project VSCAN AI. And here, what particularly we will be doing in the sense that one particular API has to be completed before the time.",
+            "confidence": 0.9922502,
+            "words": [
+              {
+                "word": "so",
+                "start": 1.04,
+                "end": 1.36,
+                "confidence": 0.9922502,
+                "punctuated_word": "So",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "today",
+                "start": 1.36,
+                "end": 1.68,
+                "confidence": 0.81083524,
+                "punctuated_word": "today,",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "we'll",
+                "start": 1.68,
+                "end": 2.08,
+                "confidence": 0.86189854,
+                "punctuated_word": "we'll",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "be",
+                "start": 2.08,
+                "end": 2.58,
+                "confidence": 0.9991744,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "looking",
+                "start": 2.6399999,
+                "end": 2.96,
+                "confidence": 0.9923591,
+                "punctuated_word": "looking",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "about",
+                "start": 2.96,
+                "end": 3.28,
+                "confidence": 0.9975605,
+                "punctuated_word": "about",
+                "speaker": 0,
+                "speaker_confidence": 0.5229644
+              },
+              {
+                "word": "the",
+                "start": 3.28,
+                "end": 3.4399998,
+                "confidence": 0.9980768,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.2360723
+              },
+              {
+                "word": "project",
+                "start": 3.4399998,
+                "end": 3.84,
+                "confidence": 0.98392177,
+                "punctuated_word": "project",
+                "speaker": 0,
+                "speaker_confidence": 0.2360723
+              },
+              {
+                "word": "vscan",
+                "start": 3.84,
+                "end": 4.3199997,
+                "confidence": 0.55350417,
+                "punctuated_word": "VSCAN",
+                "speaker": 0,
+                "speaker_confidence": 0.2360723
+              },
+              {
+                "word": "ai",
+                "start": 4.3199997,
+                "end": 4.8199997,
+                "confidence": 0.6552582,
+                "punctuated_word": "AI.",
+                "speaker": 0,
+                "speaker_confidence": 0.2360723
+              },
+              {
+                "word": "and",
+                "start": 5.04,
+                "end": 5.54,
+                "confidence": 0.99112976,
+                "punctuated_word": "And",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "here",
+                "start": 5.68,
+                "end": 6.18,
+                "confidence": 0.9016899,
+                "punctuated_word": "here,",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "what",
+                "start": 7.3599997,
+                "end": 7.6,
+                "confidence": 0.9985177,
+                "punctuated_word": "what",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "particularly",
+                "start": 7.6,
+                "end": 8.1,
+                "confidence": 0.9705467,
+                "punctuated_word": "particularly",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "we",
+                "start": 8.32,
+                "end": 8.48,
+                "confidence": 0.97825134,
+                "punctuated_word": "we",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "will",
+                "start": 8.48,
+                "end": 8.72,
+                "confidence": 0.9980597,
+                "punctuated_word": "will",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "be",
+                "start": 8.72,
+                "end": 8.96,
+                "confidence": 0.9991773,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "doing",
+                "start": 8.96,
+                "end": 9.46,
+                "confidence": 0.99945015,
+                "punctuated_word": "doing",
+                "speaker": 0,
+                "speaker_confidence": 0.58969265
+              },
+              {
+                "word": "in",
+                "start": 10.32,
+                "end": 10.4,
+                "confidence": 0.7707174,
+                "punctuated_word": "in",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "the",
+                "start": 10.4,
+                "end": 10.559999,
+                "confidence": 0.85666734,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "sense",
+                "start": 10.559999,
+                "end": 10.88,
+                "confidence": 0.99498403,
+                "punctuated_word": "sense",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "that",
+                "start": 10.88,
+                "end": 11.2,
+                "confidence": 0.99345446,
+                "punctuated_word": "that",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "one",
+                "start": 11.2,
+                "end": 11.44,
+                "confidence": 0.99202406,
+                "punctuated_word": "one",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "particular",
+                "start": 11.44,
+                "end": 11.94,
+                "confidence": 0.9993292,
+                "punctuated_word": "particular",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "api",
+                "start": 12.08,
+                "end": 12.58,
+                "confidence": 0.99964285,
+                "punctuated_word": "API",
+                "speaker": 0,
+                "speaker_confidence": 0.56632596
+              },
+              {
+                "word": "has",
+                "start": 12.969,
+                "end": 13.129,
+                "confidence": 0.99865663,
+                "punctuated_word": "has",
+                "speaker": 0,
+                "speaker_confidence": 0.47020262
+              },
+              {
+                "word": "to",
+                "start": 13.129,
+                "end": 13.289,
+                "confidence": 0.99957603,
+                "punctuated_word": "to",
+                "speaker": 0,
+                "speaker_confidence": 0.47020262
+              },
+              {
+                "word": "be",
+                "start": 13.289,
+                "end": 13.369,
+                "confidence": 0.9997402,
+                "punctuated_word": "be",
+                "speaker": 0,
+                "speaker_confidence": 0.47020262
+              },
+              {
+                "word": "completed",
+                "start": 13.369,
+                "end": 13.869,
+                "confidence": 0.9986732,
+                "punctuated_word": "completed",
+                "speaker": 0,
+                "speaker_confidence": 0.47020262
+              },
+              {
+                "word": "before",
+                "start": 15.849,
+                "end": 16.169,
+                "confidence": 0.48763457,
+                "punctuated_word": "before",
+                "speaker": 0,
+                "speaker_confidence": 0.4412493
+              },
+              {
+                "word": "the",
+                "start": 16.169,
+                "end": 16.329,
+                "confidence": 0.8778724,
+                "punctuated_word": "the",
+                "speaker": 0,
+                "speaker_confidence": 0.4412493
+              },
+              {
+                "word": "time",
+                "start": 16.329,
+                "end": 16.829,
+                "confidence": 0.9242612,
+                "punctuated_word": "time.",
+                "speaker": 0,
+                "speaker_confidence": 0.4412493
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: So today, we'll be looking about the project VSCAN AI. And here, what particularly we will be doing in the sense that one particular API has to be completed before the time.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "So today, we'll be looking about the project VSCAN AI.",
+                      "start": 1.04,
+                      "end": 4.8199997
+                    },
+                    {
+                      "text": "And here, what particularly we will be doing in the sense that one particular API has to be completed before the time.",
+                      "start": 5.04,
+                      "end": 16.829
+                    }
+                  ],
+                  "start": 1.04,
+                  "end": 16.829,
+                  "num_words": 32,
+                  "speaker": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 1.04,
+        "end": 6.18,
+        "confidence": 0.8948049,
+        "channel": 0,
+        "transcript": "So today, we'll be looking about the project VSCAN AI. And here,",
+        "words": [
+          {
+            "word": "so",
+            "start": 1.04,
+            "end": 1.36,
+            "confidence": 0.9922502,
+            "punctuated_word": "So",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "today",
+            "start": 1.36,
+            "end": 1.68,
+            "confidence": 0.81083524,
+            "punctuated_word": "today,",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "we'll",
+            "start": 1.68,
+            "end": 2.08,
+            "confidence": 0.86189854,
+            "punctuated_word": "we'll",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "be",
+            "start": 2.08,
+            "end": 2.58,
+            "confidence": 0.9991744,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "looking",
+            "start": 2.6399999,
+            "end": 2.96,
+            "confidence": 0.9923591,
+            "punctuated_word": "looking",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "about",
+            "start": 2.96,
+            "end": 3.28,
+            "confidence": 0.9975605,
+            "punctuated_word": "about",
+            "speaker": 0,
+            "speaker_confidence": 0.5229644
+          },
+          {
+            "word": "the",
+            "start": 3.28,
+            "end": 3.4399998,
+            "confidence": 0.9980768,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.2360723
+          },
+          {
+            "word": "project",
+            "start": 3.4399998,
+            "end": 3.84,
+            "confidence": 0.98392177,
+            "punctuated_word": "project",
+            "speaker": 0,
+            "speaker_confidence": 0.2360723
+          },
+          {
+            "word": "vscan",
+            "start": 3.84,
+            "end": 4.3199997,
+            "confidence": 0.55350417,
+            "punctuated_word": "VSCAN",
+            "speaker": 0,
+            "speaker_confidence": 0.2360723
+          },
+          {
+            "word": "ai",
+            "start": 4.3199997,
+            "end": 4.8199997,
+            "confidence": 0.6552582,
+            "punctuated_word": "AI.",
+            "speaker": 0,
+            "speaker_confidence": 0.2360723
+          },
+          {
+            "word": "and",
+            "start": 5.04,
+            "end": 5.54,
+            "confidence": 0.99112976,
+            "punctuated_word": "And",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "here",
+            "start": 5.68,
+            "end": 6.18,
+            "confidence": 0.9016899,
+            "punctuated_word": "here,",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          }
+        ],
+        "speaker": 0,
+        "id": "f0111d50-a07d-4b6b-8e2b-cb6ef4165002"
+      },
+      {
+        "start": 7.3599997,
+        "end": 9.46,
+        "confidence": 0.99066716,
+        "channel": 0,
+        "transcript": "what particularly we will be doing",
+        "words": [
+          {
+            "word": "what",
+            "start": 7.3599997,
+            "end": 7.6,
+            "confidence": 0.9985177,
+            "punctuated_word": "what",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "particularly",
+            "start": 7.6,
+            "end": 8.1,
+            "confidence": 0.9705467,
+            "punctuated_word": "particularly",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "we",
+            "start": 8.32,
+            "end": 8.48,
+            "confidence": 0.97825134,
+            "punctuated_word": "we",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "will",
+            "start": 8.48,
+            "end": 8.72,
+            "confidence": 0.9980597,
+            "punctuated_word": "will",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "be",
+            "start": 8.72,
+            "end": 8.96,
+            "confidence": 0.9991773,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          },
+          {
+            "word": "doing",
+            "start": 8.96,
+            "end": 9.46,
+            "confidence": 0.99945015,
+            "punctuated_word": "doing",
+            "speaker": 0,
+            "speaker_confidence": 0.58969265
+          }
+        ],
+        "speaker": 0,
+        "id": "e5070627-8a58-4677-b855-22a408c60993"
+      },
+      {
+        "start": 10.32,
+        "end": 12.58,
+        "confidence": 0.9438313,
+        "channel": 0,
+        "transcript": "in the sense that one particular API",
+        "words": [
+          {
+            "word": "in",
+            "start": 10.32,
+            "end": 10.4,
+            "confidence": 0.7707174,
+            "punctuated_word": "in",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "the",
+            "start": 10.4,
+            "end": 10.559999,
+            "confidence": 0.85666734,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "sense",
+            "start": 10.559999,
+            "end": 10.88,
+            "confidence": 0.99498403,
+            "punctuated_word": "sense",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "that",
+            "start": 10.88,
+            "end": 11.2,
+            "confidence": 0.99345446,
+            "punctuated_word": "that",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "one",
+            "start": 11.2,
+            "end": 11.44,
+            "confidence": 0.99202406,
+            "punctuated_word": "one",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "particular",
+            "start": 11.44,
+            "end": 11.94,
+            "confidence": 0.9993292,
+            "punctuated_word": "particular",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          },
+          {
+            "word": "api",
+            "start": 12.08,
+            "end": 12.58,
+            "confidence": 0.99964285,
+            "punctuated_word": "API",
+            "speaker": 0,
+            "speaker_confidence": 0.56632596
+          }
+        ],
+        "speaker": 0,
+        "id": "912fc01e-8d90-4ef9-a8a7-c15fe35b75e5"
+      },
+      {
+        "start": 12.969,
+        "end": 13.869,
+        "confidence": 0.9991615,
+        "channel": 0,
+        "transcript": "has to be completed",
+        "words": [
+          {
+            "word": "has",
+            "start": 12.969,
+            "end": 13.129,
+            "confidence": 0.99865663,
+            "punctuated_word": "has",
+            "speaker": 0,
+            "speaker_confidence": 0.47020262
+          },
+          {
+            "word": "to",
+            "start": 13.129,
+            "end": 13.289,
+            "confidence": 0.99957603,
+            "punctuated_word": "to",
+            "speaker": 0,
+            "speaker_confidence": 0.47020262
+          },
+          {
+            "word": "be",
+            "start": 13.289,
+            "end": 13.369,
+            "confidence": 0.9997402,
+            "punctuated_word": "be",
+            "speaker": 0,
+            "speaker_confidence": 0.47020262
+          },
+          {
+            "word": "completed",
+            "start": 13.369,
+            "end": 13.869,
+            "confidence": 0.9986732,
+            "punctuated_word": "completed",
+            "speaker": 0,
+            "speaker_confidence": 0.47020262
+          }
+        ],
+        "speaker": 0,
+        "id": "a87ce571-f3a0-4873-82f6-15e1c27c788c"
+      },
+      {
+        "start": 15.849,
+        "end": 16.829,
+        "confidence": 0.7632561,
+        "channel": 0,
+        "transcript": "before the time.",
+        "words": [
+          {
+            "word": "before",
+            "start": 15.849,
+            "end": 16.169,
+            "confidence": 0.48763457,
+            "punctuated_word": "before",
+            "speaker": 0,
+            "speaker_confidence": 0.4412493
+          },
+          {
+            "word": "the",
+            "start": 16.169,
+            "end": 16.329,
+            "confidence": 0.8778724,
+            "punctuated_word": "the",
+            "speaker": 0,
+            "speaker_confidence": 0.4412493
+          },
+          {
+            "word": "time",
+            "start": 16.329,
+            "end": 16.829,
+            "confidence": 0.9242612,
+            "punctuated_word": "time.",
+            "speaker": 0,
+            "speaker_confidence": 0.4412493
+          }
+        ],
+        "speaker": 0,
+        "id": "ef106cfa-23aa-469d-9377-75aa31acde33"
+      }
+    ]
+  }
+}
